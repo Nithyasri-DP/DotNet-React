@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VSCodezz\\SOLID_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F24D6E1-4E6D-4100-AE38-9B90756C3E79}|ISP_Demo\\ISP_Demo.csproj|d:\\vscodezz\\solid_demo\\isp_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F24D6E1-4E6D-4100-AE38-9B90756C3E79}|ISP_Demo\\ISP_Demo.csproj|solutionrelative:isp_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F24D6E1-4E6D-4100-AE38-9B90756C3E79}|ISP_Demo\\ISP_Demo.csproj|d:\\vscodezz\\solid_demo\\isp_demo\\models\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F24D6E1-4E6D-4100-AE38-9B90756C3E79}|ISP_Demo\\ISP_Demo.csproj|solutionrelative:isp_demo\\models\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F24D6E1-4E6D-4100-AE38-9B90756C3E79}|ISP_Demo\\ISP_Demo.csproj|d:\\vscodezz\\solid_demo\\isp_demo\\models\\investmentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F24D6E1-4E6D-4100-AE38-9B90756C3E79}|ISP_Demo\\ISP_Demo.csproj|solutionrelative:isp_demo\\models\\investmentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F24D6E1-4E6D-4100-AE38-9B90756C3E79}|ISP_Demo\\ISP_Demo.csproj|d:\\vscodezz\\solid_demo\\isp_demo\\interfaces\\iinvestmentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F24D6E1-4E6D-4100-AE38-9B90756C3E79}|ISP_Demo\\ISP_Demo.csproj|solutionrelative:isp_demo\\interfaces\\iinvestmentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F24D6E1-4E6D-4100-AE38-9B90756C3E79}|ISP_Demo\\ISP_Demo.csproj|d:\\vscodezz\\solid_demo\\isp_demo\\interfaces\\ibasicaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F24D6E1-4E6D-4100-AE38-9B90756C3E79}|ISP_Demo\\ISP_Demo.csproj|solutionrelative:isp_demo\\interfaces\\ibasicaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F24D6E1-4E6D-4100-AE38-9B90756C3E79}|ISP_Demo\\ISP_Demo.csproj|d:\\vscodezz\\solid_demo\\isp_demo\\isp_demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5F24D6E1-4E6D-4100-AE38-9B90756C3E79}|ISP_Demo\\ISP_Demo.csproj|solutionrelative:isp_demo\\isp_demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{007B83F2-C969-465F-BD43-F2F600B067A2}|LSP_Demo\\LSP_Demo.csproj|d:\\vscodezz\\solid_demo\\lsp_demo\\models\\ifruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007B83F2-C969-465F-BD43-F2F600B067A2}|LSP_Demo\\LSP_Demo.csproj|solutionrelative:lsp_demo\\models\\ifruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DED00E-EF90-40C8-8124-C8E3CFAFAA3C}|DIP_Demo\\DIP_Demo.csproj|d:\\vscodezz\\solid_demo\\dip_demo\\models\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DED00E-EF90-40C8-8124-C8E3CFAFAA3C}|DIP_Demo\\DIP_Demo.csproj|solutionrelative:dip_demo\\models\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DED00E-EF90-40C8-8124-C8E3CFAFAA3C}|DIP_Demo\\DIP_Demo.csproj|d:\\vscodezz\\solid_demo\\dip_demo\\models\\iaudioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DED00E-EF90-40C8-8124-C8E3CFAFAA3C}|DIP_Demo\\DIP_Demo.csproj|solutionrelative:dip_demo\\models\\iaudioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IInvestmentAccount.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\SOLID_Demo\\ISP_Demo\\Interfaces\\IInvestmentAccount.cs",
+              "RelativeDocumentMoniker": "ISP_Demo\\Interfaces\\IInvestmentAccount.cs",
+              "ToolTip": "D:\\VSCodezz\\SOLID_Demo\\ISP_Demo\\Interfaces\\IInvestmentAccount.cs",
+              "RelativeToolTip": "ISP_Demo\\Interfaces\\IInvestmentAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T10:00:15.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBasicAccount.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\SOLID_Demo\\ISP_Demo\\Interfaces\\IBasicAccount.cs",
+              "RelativeDocumentMoniker": "ISP_Demo\\Interfaces\\IBasicAccount.cs",
+              "ToolTip": "D:\\VSCodezz\\SOLID_Demo\\ISP_Demo\\Interfaces\\IBasicAccount.cs",
+              "RelativeToolTip": "ISP_Demo\\Interfaces\\IBasicAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:59:37.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISP_Demo",
+              "DocumentMoniker": "D:\\VSCodezz\\SOLID_Demo\\ISP_Demo\\ISP_Demo.csproj",
+              "RelativeDocumentMoniker": "ISP_Demo\\ISP_Demo.csproj",
+              "ToolTip": "D:\\VSCodezz\\SOLID_Demo\\ISP_Demo\\ISP_Demo.csproj",
+              "RelativeToolTip": "ISP_Demo\\ISP_Demo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-05T09:59:07.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\SOLID_Demo\\ISP_Demo\\Models\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "ISP_Demo\\Models\\SavingsAccount.cs",
+              "ToolTip": "D:\\VSCodezz\\SOLID_Demo\\ISP_Demo\\Models\\SavingsAccount.cs",
+              "RelativeToolTip": "ISP_Demo\\Models\\SavingsAccount.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:54:54.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvestmentAccount.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\SOLID_Demo\\ISP_Demo\\Models\\InvestmentAccount.cs",
+              "RelativeDocumentMoniker": "ISP_Demo\\Models\\InvestmentAccount.cs",
+              "ToolTip": "D:\\VSCodezz\\SOLID_Demo\\ISP_Demo\\Models\\InvestmentAccount.cs",
+              "RelativeToolTip": "ISP_Demo\\Models\\InvestmentAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:54:20.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MusicPlayer.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\SOLID_Demo\\DIP_Demo\\Models\\MusicPlayer.cs",
+              "RelativeDocumentMoniker": "DIP_Demo\\Models\\MusicPlayer.cs",
+              "ToolTip": "D:\\VSCodezz\\SOLID_Demo\\DIP_Demo\\Models\\MusicPlayer.cs",
+              "RelativeToolTip": "DIP_Demo\\Models\\MusicPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:50:36.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\SOLID_Demo\\ISP_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "ISP_Demo\\Program.cs",
+              "ToolTip": "D:\\VSCodezz\\SOLID_Demo\\ISP_Demo\\Program.cs*",
+              "RelativeToolTip": "ISP_Demo\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:47:17.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAudioPlayer.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\SOLID_Demo\\DIP_Demo\\Models\\IAudioPlayer.cs",
+              "RelativeDocumentMoniker": "DIP_Demo\\Models\\IAudioPlayer.cs",
+              "ToolTip": "D:\\VSCodezz\\SOLID_Demo\\DIP_Demo\\Models\\IAudioPlayer.cs",
+              "RelativeToolTip": "DIP_Demo\\Models\\IAudioPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:44:58.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFruit.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\SOLID_Demo\\LSP_Demo\\Models\\IFruit.cs",
+              "RelativeDocumentMoniker": "LSP_Demo\\Models\\IFruit.cs",
+              "ToolTip": "D:\\VSCodezz\\SOLID_Demo\\LSP_Demo\\Models\\IFruit.cs",
+              "RelativeToolTip": "LSP_Demo\\Models\\IFruit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:30:52.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+D:\VSCodezz\InvoiceLibrary\InvoiceCalculator.cs\bin\Debug\net8.0\InvoiceLibrary.deps.json
+D:\VSCodezz\InvoiceLibrary\InvoiceCalculator.cs\bin\Debug\net8.0\InvoiceLibrary.dll
+D:\VSCodezz\InvoiceLibrary\InvoiceCalculator.cs\bin\Debug\net8.0\InvoiceLibrary.pdb
+D:\VSCodezz\InvoiceLibrary\InvoiceCalculator.cs\obj\Debug\net8.0\InvoiceLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCodezz\InvoiceLibrary\InvoiceCalculator.cs\obj\Debug\net8.0\InvoiceLibrary.AssemblyInfoInputs.cache
+D:\VSCodezz\InvoiceLibrary\InvoiceCalculator.cs\obj\Debug\net8.0\InvoiceLibrary.AssemblyInfo.cs
+D:\VSCodezz\InvoiceLibrary\InvoiceCalculator.cs\obj\Debug\net8.0\InvoiceLibrary.csproj.CoreCompileInputs.cache
+D:\VSCodezz\InvoiceLibrary\InvoiceCalculator.cs\obj\Debug\net8.0\InvoiceLibrary.dll
+D:\VSCodezz\InvoiceLibrary\InvoiceCalculator.cs\obj\Debug\net8.0\refint\InvoiceLibrary.dll
+D:\VSCodezz\InvoiceLibrary\InvoiceCalculator.cs\obj\Debug\net8.0\InvoiceLibrary.pdb
+D:\VSCodezz\InvoiceLibrary\InvoiceCalculator.cs\obj\Debug\net8.0\ref\InvoiceLibrary.dll

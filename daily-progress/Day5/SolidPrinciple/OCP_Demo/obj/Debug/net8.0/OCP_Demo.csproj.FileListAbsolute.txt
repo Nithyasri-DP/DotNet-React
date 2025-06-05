@@ -1,0 +1,14 @@
+D:\VSCodezz\SOLID_Demo\OCP_Demo\bin\Debug\net8.0\OCP_Demo.exe
+D:\VSCodezz\SOLID_Demo\OCP_Demo\bin\Debug\net8.0\OCP_Demo.deps.json
+D:\VSCodezz\SOLID_Demo\OCP_Demo\bin\Debug\net8.0\OCP_Demo.runtimeconfig.json
+D:\VSCodezz\SOLID_Demo\OCP_Demo\bin\Debug\net8.0\OCP_Demo.dll
+D:\VSCodezz\SOLID_Demo\OCP_Demo\bin\Debug\net8.0\OCP_Demo.pdb
+D:\VSCodezz\SOLID_Demo\OCP_Demo\obj\Debug\net8.0\OCP_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCodezz\SOLID_Demo\OCP_Demo\obj\Debug\net8.0\OCP_Demo.AssemblyInfoInputs.cache
+D:\VSCodezz\SOLID_Demo\OCP_Demo\obj\Debug\net8.0\OCP_Demo.AssemblyInfo.cs
+D:\VSCodezz\SOLID_Demo\OCP_Demo\obj\Debug\net8.0\OCP_Demo.csproj.CoreCompileInputs.cache
+D:\VSCodezz\SOLID_Demo\OCP_Demo\obj\Debug\net8.0\OCP_Demo.dll
+D:\VSCodezz\SOLID_Demo\OCP_Demo\obj\Debug\net8.0\refint\OCP_Demo.dll
+D:\VSCodezz\SOLID_Demo\OCP_Demo\obj\Debug\net8.0\OCP_Demo.pdb
+D:\VSCodezz\SOLID_Demo\OCP_Demo\obj\Debug\net8.0\OCP_Demo.genruntimeconfig.cache
+D:\VSCodezz\SOLID_Demo\OCP_Demo\obj\Debug\net8.0\ref\OCP_Demo.dll

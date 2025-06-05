@@ -1,0 +1,14 @@
+D:\VSCodezz\SOLID_Demo\ISP_Demo\bin\Debug\net8.0\ISP_Demo.exe
+D:\VSCodezz\SOLID_Demo\ISP_Demo\bin\Debug\net8.0\ISP_Demo.deps.json
+D:\VSCodezz\SOLID_Demo\ISP_Demo\bin\Debug\net8.0\ISP_Demo.runtimeconfig.json
+D:\VSCodezz\SOLID_Demo\ISP_Demo\bin\Debug\net8.0\ISP_Demo.dll
+D:\VSCodezz\SOLID_Demo\ISP_Demo\bin\Debug\net8.0\ISP_Demo.pdb
+D:\VSCodezz\SOLID_Demo\ISP_Demo\obj\Debug\net8.0\ISP_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCodezz\SOLID_Demo\ISP_Demo\obj\Debug\net8.0\ISP_Demo.AssemblyInfoInputs.cache
+D:\VSCodezz\SOLID_Demo\ISP_Demo\obj\Debug\net8.0\ISP_Demo.AssemblyInfo.cs
+D:\VSCodezz\SOLID_Demo\ISP_Demo\obj\Debug\net8.0\ISP_Demo.csproj.CoreCompileInputs.cache
+D:\VSCodezz\SOLID_Demo\ISP_Demo\obj\Debug\net8.0\ISP_Demo.dll
+D:\VSCodezz\SOLID_Demo\ISP_Demo\obj\Debug\net8.0\refint\ISP_Demo.dll
+D:\VSCodezz\SOLID_Demo\ISP_Demo\obj\Debug\net8.0\ISP_Demo.pdb
+D:\VSCodezz\SOLID_Demo\ISP_Demo\obj\Debug\net8.0\ISP_Demo.genruntimeconfig.cache
+D:\VSCodezz\SOLID_Demo\ISP_Demo\obj\Debug\net8.0\ref\ISP_Demo.dll

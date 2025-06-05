@@ -1,0 +1,14 @@
+D:\VSCodezz\InvoiceLibrary\PatternsDemo\bin\Debug\net8.0\PatternsDemo.exe
+D:\VSCodezz\InvoiceLibrary\PatternsDemo\bin\Debug\net8.0\PatternsDemo.deps.json
+D:\VSCodezz\InvoiceLibrary\PatternsDemo\bin\Debug\net8.0\PatternsDemo.runtimeconfig.json
+D:\VSCodezz\InvoiceLibrary\PatternsDemo\bin\Debug\net8.0\PatternsDemo.dll
+D:\VSCodezz\InvoiceLibrary\PatternsDemo\bin\Debug\net8.0\PatternsDemo.pdb
+D:\VSCodezz\InvoiceLibrary\PatternsDemo\obj\Debug\net8.0\PatternsDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCodezz\InvoiceLibrary\PatternsDemo\obj\Debug\net8.0\PatternsDemo.AssemblyInfoInputs.cache
+D:\VSCodezz\InvoiceLibrary\PatternsDemo\obj\Debug\net8.0\PatternsDemo.AssemblyInfo.cs
+D:\VSCodezz\InvoiceLibrary\PatternsDemo\obj\Debug\net8.0\PatternsDemo.csproj.CoreCompileInputs.cache
+D:\VSCodezz\InvoiceLibrary\PatternsDemo\obj\Debug\net8.0\PatternsDemo.dll
+D:\VSCodezz\InvoiceLibrary\PatternsDemo\obj\Debug\net8.0\refint\PatternsDemo.dll
+D:\VSCodezz\InvoiceLibrary\PatternsDemo\obj\Debug\net8.0\PatternsDemo.pdb
+D:\VSCodezz\InvoiceLibrary\PatternsDemo\obj\Debug\net8.0\PatternsDemo.genruntimeconfig.cache
+D:\VSCodezz\InvoiceLibrary\PatternsDemo\obj\Debug\net8.0\ref\PatternsDemo.dll

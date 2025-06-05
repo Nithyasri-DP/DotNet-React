@@ -1,0 +1,14 @@
+D:\VSCodezz\SOLID_Demo\DIP_Demo\bin\Debug\net8.0\DIP_Demo.exe
+D:\VSCodezz\SOLID_Demo\DIP_Demo\bin\Debug\net8.0\DIP_Demo.deps.json
+D:\VSCodezz\SOLID_Demo\DIP_Demo\bin\Debug\net8.0\DIP_Demo.runtimeconfig.json
+D:\VSCodezz\SOLID_Demo\DIP_Demo\bin\Debug\net8.0\DIP_Demo.dll
+D:\VSCodezz\SOLID_Demo\DIP_Demo\bin\Debug\net8.0\DIP_Demo.pdb
+D:\VSCodezz\SOLID_Demo\DIP_Demo\obj\Debug\net8.0\DIP_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCodezz\SOLID_Demo\DIP_Demo\obj\Debug\net8.0\DIP_Demo.AssemblyInfoInputs.cache
+D:\VSCodezz\SOLID_Demo\DIP_Demo\obj\Debug\net8.0\DIP_Demo.AssemblyInfo.cs
+D:\VSCodezz\SOLID_Demo\DIP_Demo\obj\Debug\net8.0\DIP_Demo.csproj.CoreCompileInputs.cache
+D:\VSCodezz\SOLID_Demo\DIP_Demo\obj\Debug\net8.0\DIP_Demo.dll
+D:\VSCodezz\SOLID_Demo\DIP_Demo\obj\Debug\net8.0\refint\DIP_Demo.dll
+D:\VSCodezz\SOLID_Demo\DIP_Demo\obj\Debug\net8.0\DIP_Demo.pdb
+D:\VSCodezz\SOLID_Demo\DIP_Demo\obj\Debug\net8.0\DIP_Demo.genruntimeconfig.cache
+D:\VSCodezz\SOLID_Demo\DIP_Demo\obj\Debug\net8.0\ref\DIP_Demo.dll
