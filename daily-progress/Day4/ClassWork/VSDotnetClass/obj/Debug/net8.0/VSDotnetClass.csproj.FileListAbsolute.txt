@@ -1,0 +1,14 @@
+D:\VSCodezz\VSDotnetClass\VSDotnetClass\bin\Debug\net8.0\VSDotnetClass.exe
+D:\VSCodezz\VSDotnetClass\VSDotnetClass\bin\Debug\net8.0\VSDotnetClass.deps.json
+D:\VSCodezz\VSDotnetClass\VSDotnetClass\bin\Debug\net8.0\VSDotnetClass.runtimeconfig.json
+D:\VSCodezz\VSDotnetClass\VSDotnetClass\bin\Debug\net8.0\VSDotnetClass.dll
+D:\VSCodezz\VSDotnetClass\VSDotnetClass\bin\Debug\net8.0\VSDotnetClass.pdb
+D:\VSCodezz\VSDotnetClass\VSDotnetClass\obj\Debug\net8.0\VSDotnetClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCodezz\VSDotnetClass\VSDotnetClass\obj\Debug\net8.0\VSDotnetClass.AssemblyInfoInputs.cache
+D:\VSCodezz\VSDotnetClass\VSDotnetClass\obj\Debug\net8.0\VSDotnetClass.AssemblyInfo.cs
+D:\VSCodezz\VSDotnetClass\VSDotnetClass\obj\Debug\net8.0\VSDotnetClass.csproj.CoreCompileInputs.cache
+D:\VSCodezz\VSDotnetClass\VSDotnetClass\obj\Debug\net8.0\VSDotnetClass.dll
+D:\VSCodezz\VSDotnetClass\VSDotnetClass\obj\Debug\net8.0\refint\VSDotnetClass.dll
+D:\VSCodezz\VSDotnetClass\VSDotnetClass\obj\Debug\net8.0\VSDotnetClass.pdb
+D:\VSCodezz\VSDotnetClass\VSDotnetClass\obj\Debug\net8.0\VSDotnetClass.genruntimeconfig.cache
+D:\VSCodezz\VSDotnetClass\VSDotnetClass\obj\Debug\net8.0\ref\VSDotnetClass.dll

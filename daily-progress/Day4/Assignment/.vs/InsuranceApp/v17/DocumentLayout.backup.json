@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VSCodezz\\InsuranceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0885E2-30B8-4431-9474-4D0C6FD7B560}|InsuranceApp\\InsuranceApp.csproj|d:\\vscodezz\\insuranceapp\\insuranceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0885E2-30B8-4431-9474-4D0C6FD7B560}|InsuranceApp\\InsuranceApp.csproj|solutionrelative:insuranceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0885E2-30B8-4431-9474-4D0C6FD7B560}|InsuranceApp\\InsuranceApp.csproj|d:\\vscodezz\\insuranceapp\\insuranceapp\\services\\queryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0885E2-30B8-4431-9474-4D0C6FD7B560}|InsuranceApp\\InsuranceApp.csproj|solutionrelative:insuranceapp\\services\\queryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0885E2-30B8-4431-9474-4D0C6FD7B560}|InsuranceApp\\InsuranceApp.csproj|d:\\vscodezz\\insuranceapp\\insuranceapp\\services\\datasample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0885E2-30B8-4431-9474-4D0C6FD7B560}|InsuranceApp\\InsuranceApp.csproj|solutionrelative:insuranceapp\\services\\datasample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0885E2-30B8-4431-9474-4D0C6FD7B560}|InsuranceApp\\InsuranceApp.csproj|d:\\vscodezz\\insuranceapp\\insuranceapp\\models\\insurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0885E2-30B8-4431-9474-4D0C6FD7B560}|InsuranceApp\\InsuranceApp.csproj|solutionrelative:insuranceapp\\models\\insurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0885E2-30B8-4431-9474-4D0C6FD7B560}|InsuranceApp\\InsuranceApp.csproj|d:\\vscodezz\\insuranceapp\\insuranceapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0885E2-30B8-4431-9474-4D0C6FD7B560}|InsuranceApp\\InsuranceApp.csproj|solutionrelative:insuranceapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueryHelper.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\InsuranceApp\\InsuranceApp\\Services\\QueryHelper.cs",
+              "RelativeDocumentMoniker": "InsuranceApp\\Services\\QueryHelper.cs",
+              "ToolTip": "D:\\VSCodezz\\InsuranceApp\\InsuranceApp\\Services\\QueryHelper.cs",
+              "RelativeToolTip": "InsuranceApp\\Services\\QueryHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T12:22:23.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataSample.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\InsuranceApp\\InsuranceApp\\Services\\DataSample.cs",
+              "RelativeDocumentMoniker": "InsuranceApp\\Services\\DataSample.cs",
+              "ToolTip": "D:\\VSCodezz\\InsuranceApp\\InsuranceApp\\Services\\DataSample.cs",
+              "RelativeToolTip": "InsuranceApp\\Services\\DataSample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T12:17:06.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Insurance.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\InsuranceApp\\InsuranceApp\\Models\\Insurance.cs",
+              "RelativeDocumentMoniker": "InsuranceApp\\Models\\Insurance.cs",
+              "ToolTip": "D:\\VSCodezz\\InsuranceApp\\InsuranceApp\\Models\\Insurance.cs",
+              "RelativeToolTip": "InsuranceApp\\Models\\Insurance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T12:09:55.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\InsuranceApp\\InsuranceApp\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "InsuranceApp\\Models\\Customer.cs",
+              "ToolTip": "D:\\VSCodezz\\InsuranceApp\\InsuranceApp\\Models\\Customer.cs",
+              "RelativeToolTip": "InsuranceApp\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T12:09:36.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\InsuranceApp\\InsuranceApp\\Program.cs",
+              "RelativeDocumentMoniker": "InsuranceApp\\Program.cs",
+              "ToolTip": "D:\\VSCodezz\\InsuranceApp\\InsuranceApp\\Program.cs",
+              "RelativeToolTip": "InsuranceApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:57:19.361Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

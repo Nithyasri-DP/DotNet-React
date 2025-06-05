@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VSCodezz\\VSDotnetClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A593B110-81B6-49C9-B5B6-98C87C3F8FF7}|VSDotnetClass\\VSDotnetClass.csproj|d:\\vscodezz\\vsdotnetclass\\vsdotnetclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A593B110-81B6-49C9-B5B6-98C87C3F8FF7}|VSDotnetClass\\VSDotnetClass.csproj|solutionrelative:vsdotnetclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A593B110-81B6-49C9-B5B6-98C87C3F8FF7}|VSDotnetClass\\VSDotnetClass.csproj|d:\\vscodezz\\vsdotnetclass\\vsdotnetclass\\dayfour\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A593B110-81B6-49C9-B5B6-98C87C3F8FF7}|VSDotnetClass\\VSDotnetClass.csproj|solutionrelative:vsdotnetclass\\dayfour\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A593B110-81B6-49C9-B5B6-98C87C3F8FF7}|VSDotnetClass\\VSDotnetClass.csproj|d:\\vscodezz\\vsdotnetclass\\vsdotnetclass\\dayfour\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A593B110-81B6-49C9-B5B6-98C87C3F8FF7}|VSDotnetClass\\VSDotnetClass.csproj|solutionrelative:vsdotnetclass\\dayfour\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A593B110-81B6-49C9-B5B6-98C87C3F8FF7}|VSDotnetClass\\VSDotnetClass.csproj|d:\\vscodezz\\vsdotnetclass\\vsdotnetclass\\dayfour\\mixeditemeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A593B110-81B6-49C9-B5B6-98C87C3F8FF7}|VSDotnetClass\\VSDotnetClass.csproj|solutionrelative:vsdotnetclass\\dayfour\\mixeditemeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A593B110-81B6-49C9-B5B6-98C87C3F8FF7}|VSDotnetClass\\VSDotnetClass.csproj|d:\\vscodezz\\vsdotnetclass\\vsdotnetclass\\dayfour\\linqsyn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A593B110-81B6-49C9-B5B6-98C87C3F8FF7}|VSDotnetClass\\VSDotnetClass.csproj|solutionrelative:vsdotnetclass\\dayfour\\linqsyn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A593B110-81B6-49C9-B5B6-98C87C3F8FF7}|VSDotnetClass\\VSDotnetClass.csproj|d:\\vscodezz\\vsdotnetclass\\vsdotnetclass\\dayfour\\aggregateeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A593B110-81B6-49C9-B5B6-98C87C3F8FF7}|VSDotnetClass\\VSDotnetClass.csproj|solutionrelative:vsdotnetclass\\dayfour\\aggregateeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A593B110-81B6-49C9-B5B6-98C87C3F8FF7}|VSDotnetClass\\VSDotnetClass.csproj|d:\\vscodezz\\vsdotnetclass\\vsdotnetclass\\daythree\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A593B110-81B6-49C9-B5B6-98C87C3F8FF7}|VSDotnetClass\\VSDotnetClass.csproj|solutionrelative:vsdotnetclass\\daythree\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A593B110-81B6-49C9-B5B6-98C87C3F8FF7}|VSDotnetClass\\VSDotnetClass.csproj|d:\\vscodezz\\vsdotnetclass\\vsdotnetclass\\daythree\\enumeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A593B110-81B6-49C9-B5B6-98C87C3F8FF7}|VSDotnetClass\\VSDotnetClass.csproj|solutionrelative:vsdotnetclass\\daythree\\enumeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A593B110-81B6-49C9-B5B6-98C87C3F8FF7}|VSDotnetClass\\VSDotnetClass.csproj|d:\\vscodezz\\vsdotnetclass\\vsdotnetclass\\daythree\\collectioneg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A593B110-81B6-49C9-B5B6-98C87C3F8FF7}|VSDotnetClass\\VSDotnetClass.csproj|solutionrelative:vsdotnetclass\\daythree\\collectioneg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A593B110-81B6-49C9-B5B6-98C87C3F8FF7}|VSDotnetClass\\VSDotnetClass.csproj|d:\\vscodezz\\vsdotnetclass\\vsdotnetclass\\daythree\\genericswap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A593B110-81B6-49C9-B5B6-98C87C3F8FF7}|VSDotnetClass\\VSDotnetClass.csproj|solutionrelative:vsdotnetclass\\daythree\\genericswap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A593B110-81B6-49C9-B5B6-98C87C3F8FF7}|VSDotnetClass\\VSDotnetClass.csproj|d:\\vscodezz\\vsdotnetclass\\vsdotnetclass\\daythree\\genericclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A593B110-81B6-49C9-B5B6-98C87C3F8FF7}|VSDotnetClass\\VSDotnetClass.csproj|solutionrelative:vsdotnetclass\\daythree\\genericclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A593B110-81B6-49C9-B5B6-98C87C3F8FF7}|VSDotnetClass\\VSDotnetClass.csproj|d:\\vscodezz\\vsdotnetclass\\vsdotnetclass\\daythree\\hasheg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A593B110-81B6-49C9-B5B6-98C87C3F8FF7}|VSDotnetClass\\VSDotnetClass.csproj|solutionrelative:vsdotnetclass\\daythree\\hasheg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AggregateEg.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\VSDotnetClass\\VSDotnetClass\\Dayfour\\AggregateEg.cs",
+              "RelativeDocumentMoniker": "VSDotnetClass\\Dayfour\\AggregateEg.cs",
+              "ToolTip": "D:\\VSCodezz\\VSDotnetClass\\VSDotnetClass\\Dayfour\\AggregateEg.cs",
+              "RelativeToolTip": "VSDotnetClass\\Dayfour\\AggregateEg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:26:55.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\VSDotnetClass\\VSDotnetClass\\Dayfour\\Supplier.cs",
+              "RelativeDocumentMoniker": "VSDotnetClass\\Dayfour\\Supplier.cs",
+              "ToolTip": "D:\\VSCodezz\\VSDotnetClass\\VSDotnetClass\\Dayfour\\Supplier.cs",
+              "RelativeToolTip": "VSDotnetClass\\Dayfour\\Supplier.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAowKEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T07:04:44.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LinqSyn.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\VSDotnetClass\\VSDotnetClass\\Dayfour\\LinqSyn.cs",
+              "RelativeDocumentMoniker": "VSDotnetClass\\Dayfour\\LinqSyn.cs",
+              "ToolTip": "D:\\VSCodezz\\VSDotnetClass\\VSDotnetClass\\Dayfour\\LinqSyn.cs",
+              "RelativeToolTip": "VSDotnetClass\\Dayfour\\LinqSyn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T04:29:55.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\VSDotnetClass\\VSDotnetClass\\Daythree\\Assignment.cs",
+              "RelativeDocumentMoniker": "VSDotnetClass\\Daythree\\Assignment.cs",
+              "ToolTip": "D:\\VSCodezz\\VSDotnetClass\\VSDotnetClass\\Daythree\\Assignment.cs",
+              "RelativeToolTip": "VSDotnetClass\\Daythree\\Assignment.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwOMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:48:18.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HashEg.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\VSDotnetClass\\VSDotnetClass\\Daythree\\HashEg.cs",
+              "RelativeDocumentMoniker": "VSDotnetClass\\Daythree\\HashEg.cs",
+              "ToolTip": "D:\\VSCodezz\\VSDotnetClass\\VSDotnetClass\\Daythree\\HashEg.cs",
+              "RelativeToolTip": "VSDotnetClass\\Daythree\\HashEg.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAqwD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:59:24.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CollectionEg.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\VSDotnetClass\\VSDotnetClass\\Daythree\\CollectionEg.cs",
+              "RelativeDocumentMoniker": "VSDotnetClass\\Daythree\\CollectionEg.cs",
+              "ToolTip": "D:\\VSCodezz\\VSDotnetClass\\VSDotnetClass\\Daythree\\CollectionEg.cs",
+              "RelativeToolTip": "VSDotnetClass\\Daythree\\CollectionEg.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:51:05.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\VSDotnetClass\\VSDotnetClass\\Program.cs",
+              "RelativeDocumentMoniker": "VSDotnetClass\\Program.cs",
+              "ToolTip": "D:\\VSCodezz\\VSDotnetClass\\VSDotnetClass\\Program.cs",
+              "RelativeToolTip": "VSDotnetClass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:50:25.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MixedItemEg.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\VSDotnetClass\\VSDotnetClass\\Dayfour\\MixedItemEg.cs",
+              "RelativeDocumentMoniker": "VSDotnetClass\\Dayfour\\MixedItemEg.cs",
+              "ToolTip": "D:\\VSCodezz\\VSDotnetClass\\VSDotnetClass\\Dayfour\\MixedItemEg.cs",
+              "RelativeToolTip": "VSDotnetClass\\Dayfour\\MixedItemEg.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwCQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T05:42:19.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\VSDotnetClass\\VSDotnetClass\\Dayfour\\Product.cs",
+              "RelativeDocumentMoniker": "VSDotnetClass\\Dayfour\\Product.cs",
+              "ToolTip": "D:\\VSCodezz\\VSDotnetClass\\VSDotnetClass\\Dayfour\\Product.cs",
+              "RelativeToolTip": "VSDotnetClass\\Dayfour\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:08:58.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GenericClass.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\VSDotnetClass\\VSDotnetClass\\Daythree\\GenericClass.cs",
+              "RelativeDocumentMoniker": "VSDotnetClass\\Daythree\\GenericClass.cs",
+              "ToolTip": "D:\\VSCodezz\\VSDotnetClass\\VSDotnetClass\\Daythree\\GenericClass.cs",
+              "RelativeToolTip": "VSDotnetClass\\Daythree\\GenericClass.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:49:01.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenericSwap.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\VSDotnetClass\\VSDotnetClass\\Daythree\\GenericSwap.cs",
+              "RelativeDocumentMoniker": "VSDotnetClass\\Daythree\\GenericSwap.cs",
+              "ToolTip": "D:\\VSCodezz\\VSDotnetClass\\VSDotnetClass\\Daythree\\GenericSwap.cs",
+              "RelativeToolTip": "VSDotnetClass\\Daythree\\GenericSwap.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:49:05.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnumEg.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\VSDotnetClass\\VSDotnetClass\\Daythree\\EnumEg.cs",
+              "RelativeDocumentMoniker": "VSDotnetClass\\Daythree\\EnumEg.cs",
+              "ToolTip": "D:\\VSCodezz\\VSDotnetClass\\VSDotnetClass\\Daythree\\EnumEg.cs",
+              "RelativeToolTip": "VSDotnetClass\\Daythree\\EnumEg.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:48:57.756Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
