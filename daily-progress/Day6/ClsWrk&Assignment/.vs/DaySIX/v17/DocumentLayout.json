@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VSCodezz\\BankApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7CD39-6894-47C9-858F-190132EBC973}|BehaviouralPattern\\BehaviouralPattern.csproj|d:\\vscodezz\\bankapp\\behaviouralpattern\\observerpattern\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E7CD39-6894-47C9-858F-190132EBC973}|BehaviouralPattern\\BehaviouralPattern.csproj|solutionrelative:behaviouralpattern\\observerpattern\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7CD39-6894-47C9-858F-190132EBC973}|BehaviouralPattern\\BehaviouralPattern.csproj|d:\\vscodezz\\bankapp\\behaviouralpattern\\chainofresponsibility\\isupporthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E7CD39-6894-47C9-858F-190132EBC973}|BehaviouralPattern\\BehaviouralPattern.csproj|solutionrelative:behaviouralpattern\\chainofresponsibility\\isupporthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7CD39-6894-47C9-858F-190132EBC973}|BehaviouralPattern\\BehaviouralPattern.csproj|d:\\vscodezz\\bankapp\\behaviouralpattern\\mediatorpattern\\ichatmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E7CD39-6894-47C9-858F-190132EBC973}|BehaviouralPattern\\BehaviouralPattern.csproj|solutionrelative:behaviouralpattern\\mediatorpattern\\ichatmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7CD39-6894-47C9-858F-190132EBC973}|BehaviouralPattern\\BehaviouralPattern.csproj|d:\\vscodezz\\bankapp\\behaviouralpattern\\mediatorpattern\\mediatorpatterndemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E7CD39-6894-47C9-858F-190132EBC973}|BehaviouralPattern\\BehaviouralPattern.csproj|solutionrelative:behaviouralpattern\\mediatorpattern\\mediatorpatterndemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7CD39-6894-47C9-858F-190132EBC973}|BehaviouralPattern\\BehaviouralPattern.csproj|d:\\vscodezz\\bankapp\\behaviouralpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E7CD39-6894-47C9-858F-190132EBC973}|BehaviouralPattern\\BehaviouralPattern.csproj|solutionrelative:behaviouralpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7CD39-6894-47C9-858F-190132EBC973}|BehaviouralPattern\\BehaviouralPattern.csproj|d:\\vscodezz\\bankapp\\behaviouralpattern\\chainofresponsibility\\chainofresponsibilitydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E7CD39-6894-47C9-858F-190132EBC973}|BehaviouralPattern\\BehaviouralPattern.csproj|solutionrelative:behaviouralpattern\\chainofresponsibility\\chainofresponsibilitydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7CD39-6894-47C9-858F-190132EBC973}|BehaviouralPattern\\BehaviouralPattern.csproj|d:\\vscodezz\\bankapp\\behaviouralpattern\\observerpattern\\observerpatterndemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E7CD39-6894-47C9-858F-190132EBC973}|BehaviouralPattern\\BehaviouralPattern.csproj|solutionrelative:behaviouralpattern\\observerpattern\\observerpatterndemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952D26B0-4A92-4E0E-A31C-B446AB09A991}|InsuranceClaimTestProject\\InsuranceClaimTestProject.csproj|d:\\vscodezz\\bankapp\\insuranceclaimtestproject\\claimprocessortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952D26B0-4A92-4E0E-A31C-B446AB09A991}|InsuranceClaimTestProject\\InsuranceClaimTestProject.csproj|solutionrelative:insuranceclaimtestproject\\claimprocessortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C2C3FF-8BFC-43A7-9CF9-4B72832F01B7}|InsuranceClaimProcessor\\InsuranceClaimProcessor.csproj|d:\\vscodezz\\bankapp\\insuranceclaimprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C2C3FF-8BFC-43A7-9CF9-4B72832F01B7}|InsuranceClaimProcessor\\InsuranceClaimProcessor.csproj|solutionrelative:insuranceclaimprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C2C3FF-8BFC-43A7-9CF9-4B72832F01B7}|InsuranceClaimProcessor\\InsuranceClaimProcessor.csproj|d:\\vscodezz\\bankapp\\insuranceclaimprocessor\\services\\claimprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C2C3FF-8BFC-43A7-9CF9-4B72832F01B7}|InsuranceClaimProcessor\\InsuranceClaimProcessor.csproj|solutionrelative:insuranceclaimprocessor\\services\\claimprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C2C3FF-8BFC-43A7-9CF9-4B72832F01B7}|InsuranceClaimProcessor\\InsuranceClaimProcessor.csproj|d:\\vscodezz\\bankapp\\insuranceclaimprocessor\\services\\claimevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C2C3FF-8BFC-43A7-9CF9-4B72832F01B7}|InsuranceClaimProcessor\\InsuranceClaimProcessor.csproj|solutionrelative:insuranceclaimprocessor\\services\\claimevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C2C3FF-8BFC-43A7-9CF9-4B72832F01B7}|InsuranceClaimProcessor\\InsuranceClaimProcessor.csproj|d:\\vscodezz\\bankapp\\insuranceclaimprocessor\\interfaces\\iclaimevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C2C3FF-8BFC-43A7-9CF9-4B72832F01B7}|InsuranceClaimProcessor\\InsuranceClaimProcessor.csproj|solutionrelative:insuranceclaimprocessor\\interfaces\\iclaimevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C2C3FF-8BFC-43A7-9CF9-4B72832F01B7}|InsuranceClaimProcessor\\InsuranceClaimProcessor.csproj|d:\\vscodezz\\bankapp\\insuranceclaimprocessor\\interfaces\\ipolicyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C2C3FF-8BFC-43A7-9CF9-4B72832F01B7}|InsuranceClaimProcessor\\InsuranceClaimProcessor.csproj|solutionrelative:insuranceclaimprocessor\\interfaces\\ipolicyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C2C3FF-8BFC-43A7-9CF9-4B72832F01B7}|InsuranceClaimProcessor\\InsuranceClaimProcessor.csproj|d:\\vscodezz\\bankapp\\insuranceclaimprocessor\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C2C3FF-8BFC-43A7-9CF9-4B72832F01B7}|InsuranceClaimProcessor\\InsuranceClaimProcessor.csproj|solutionrelative:insuranceclaimprocessor\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C2C3FF-8BFC-43A7-9CF9-4B72832F01B7}|InsuranceClaimProcessor\\InsuranceClaimProcessor.csproj|d:\\vscodezz\\bankapp\\insuranceclaimprocessor\\models\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C2C3FF-8BFC-43A7-9CF9-4B72832F01B7}|InsuranceClaimProcessor\\InsuranceClaimProcessor.csproj|solutionrelative:insuranceclaimprocessor\\models\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChainOfResponsibilityDemo.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\BankApp\\BehaviouralPattern\\ChainOfResponsibility\\ChainOfResponsibilityDemo.cs",
+              "RelativeDocumentMoniker": "BehaviouralPattern\\ChainOfResponsibility\\ChainOfResponsibilityDemo.cs",
+              "ToolTip": "D:\\VSCodezz\\BankApp\\BehaviouralPattern\\ChainOfResponsibility\\ChainOfResponsibilityDemo.cs",
+              "RelativeToolTip": "BehaviouralPattern\\ChainOfResponsibility\\ChainOfResponsibilityDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T13:11:52.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISupportHandler.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\BankApp\\BehaviouralPattern\\ChainOfResponsibility\\ISupportHandler.cs",
+              "RelativeDocumentMoniker": "BehaviouralPattern\\ChainOfResponsibility\\ISupportHandler.cs",
+              "ToolTip": "D:\\VSCodezz\\BankApp\\BehaviouralPattern\\ChainOfResponsibility\\ISupportHandler.cs",
+              "RelativeToolTip": "BehaviouralPattern\\ChainOfResponsibility\\ISupportHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T13:09:59.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MediatorPatternDemo.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\BankApp\\BehaviouralPattern\\MediatorPattern\\MediatorPatternDemo.cs",
+              "RelativeDocumentMoniker": "BehaviouralPattern\\MediatorPattern\\MediatorPatternDemo.cs",
+              "ToolTip": "D:\\VSCodezz\\BankApp\\BehaviouralPattern\\MediatorPattern\\MediatorPatternDemo.cs",
+              "RelativeToolTip": "BehaviouralPattern\\MediatorPattern\\MediatorPatternDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T13:00:07.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IChatMediator.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\BankApp\\BehaviouralPattern\\MediatorPattern\\IChatMediator.cs",
+              "RelativeDocumentMoniker": "BehaviouralPattern\\MediatorPattern\\IChatMediator.cs",
+              "ToolTip": "D:\\VSCodezz\\BankApp\\BehaviouralPattern\\MediatorPattern\\IChatMediator.cs",
+              "RelativeToolTip": "BehaviouralPattern\\MediatorPattern\\IChatMediator.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T12:56:11.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\BankApp\\BehaviouralPattern\\ObserverPattern\\IObserver.cs",
+              "RelativeDocumentMoniker": "BehaviouralPattern\\ObserverPattern\\IObserver.cs",
+              "ToolTip": "D:\\VSCodezz\\BankApp\\BehaviouralPattern\\ObserverPattern\\IObserver.cs",
+              "RelativeToolTip": "BehaviouralPattern\\ObserverPattern\\IObserver.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwDoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T12:27:31.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ObserverPatternDemo.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\BankApp\\BehaviouralPattern\\ObserverPattern\\ObserverPatternDemo.cs",
+              "RelativeDocumentMoniker": "BehaviouralPattern\\ObserverPattern\\ObserverPatternDemo.cs",
+              "ToolTip": "D:\\VSCodezz\\BankApp\\BehaviouralPattern\\ObserverPattern\\ObserverPatternDemo.cs",
+              "RelativeToolTip": "BehaviouralPattern\\ObserverPattern\\ObserverPatternDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T12:27:01.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\BankApp\\BehaviouralPattern\\Program.cs",
+              "RelativeDocumentMoniker": "BehaviouralPattern\\Program.cs",
+              "ToolTip": "D:\\VSCodezz\\BankApp\\BehaviouralPattern\\Program.cs",
+              "RelativeToolTip": "BehaviouralPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T12:09:03.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClaimProcessorTest.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\BankApp\\InsuranceClaimTestProject\\ClaimProcessorTest.cs",
+              "RelativeDocumentMoniker": "InsuranceClaimTestProject\\ClaimProcessorTest.cs",
+              "ToolTip": "D:\\VSCodezz\\BankApp\\InsuranceClaimTestProject\\ClaimProcessorTest.cs",
+              "RelativeToolTip": "InsuranceClaimTestProject\\ClaimProcessorTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:51:57.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClaimEvaluator.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\BankApp\\InsuranceClaimProcessor\\Services\\ClaimEvaluator.cs",
+              "RelativeDocumentMoniker": "InsuranceClaimProcessor\\Services\\ClaimEvaluator.cs",
+              "ToolTip": "D:\\VSCodezz\\BankApp\\InsuranceClaimProcessor\\Services\\ClaimEvaluator.cs",
+              "RelativeToolTip": "InsuranceClaimProcessor\\Services\\ClaimEvaluator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:50:47.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClaimProcessor.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\BankApp\\InsuranceClaimProcessor\\Services\\ClaimProcessor.cs",
+              "RelativeDocumentMoniker": "InsuranceClaimProcessor\\Services\\ClaimProcessor.cs",
+              "ToolTip": "D:\\VSCodezz\\BankApp\\InsuranceClaimProcessor\\Services\\ClaimProcessor.cs",
+              "RelativeToolTip": "InsuranceClaimProcessor\\Services\\ClaimProcessor.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:50:33.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IClaimEvaluator.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\BankApp\\InsuranceClaimProcessor\\Interfaces\\IClaimEvaluator.cs",
+              "RelativeDocumentMoniker": "InsuranceClaimProcessor\\Interfaces\\IClaimEvaluator.cs",
+              "ToolTip": "D:\\VSCodezz\\BankApp\\InsuranceClaimProcessor\\Interfaces\\IClaimEvaluator.cs",
+              "RelativeToolTip": "InsuranceClaimProcessor\\Interfaces\\IClaimEvaluator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:50:13.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPolicyRepository.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\BankApp\\InsuranceClaimProcessor\\Interfaces\\IPolicyRepository.cs",
+              "RelativeDocumentMoniker": "InsuranceClaimProcessor\\Interfaces\\IPolicyRepository.cs",
+              "ToolTip": "D:\\VSCodezz\\BankApp\\InsuranceClaimProcessor\\Interfaces\\IPolicyRepository.cs",
+              "RelativeToolTip": "InsuranceClaimProcessor\\Interfaces\\IPolicyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:49:43.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\BankApp\\InsuranceClaimProcessor\\Models\\Claim.cs",
+              "RelativeDocumentMoniker": "InsuranceClaimProcessor\\Models\\Claim.cs",
+              "ToolTip": "D:\\VSCodezz\\BankApp\\InsuranceClaimProcessor\\Models\\Claim.cs",
+              "RelativeToolTip": "InsuranceClaimProcessor\\Models\\Claim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:49:15.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Policy.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\BankApp\\InsuranceClaimProcessor\\Models\\Policy.cs",
+              "RelativeDocumentMoniker": "InsuranceClaimProcessor\\Models\\Policy.cs",
+              "ToolTip": "D:\\VSCodezz\\BankApp\\InsuranceClaimProcessor\\Models\\Policy.cs",
+              "RelativeToolTip": "InsuranceClaimProcessor\\Models\\Policy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:49:08.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\BankApp\\InsuranceClaimProcessor\\Program.cs",
+              "RelativeDocumentMoniker": "InsuranceClaimProcessor\\Program.cs",
+              "ToolTip": "D:\\VSCodezz\\BankApp\\InsuranceClaimProcessor\\Program.cs",
+              "RelativeToolTip": "InsuranceClaimProcessor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:36:38.265Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

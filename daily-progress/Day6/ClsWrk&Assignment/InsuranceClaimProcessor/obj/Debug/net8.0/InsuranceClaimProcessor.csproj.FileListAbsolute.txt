@@ -1,0 +1,14 @@
+D:\VSCodezz\BankApp\InsuranceClaimProcessor\bin\Debug\net8.0\InsuranceClaimProcessor.exe
+D:\VSCodezz\BankApp\InsuranceClaimProcessor\bin\Debug\net8.0\InsuranceClaimProcessor.deps.json
+D:\VSCodezz\BankApp\InsuranceClaimProcessor\bin\Debug\net8.0\InsuranceClaimProcessor.runtimeconfig.json
+D:\VSCodezz\BankApp\InsuranceClaimProcessor\bin\Debug\net8.0\InsuranceClaimProcessor.dll
+D:\VSCodezz\BankApp\InsuranceClaimProcessor\bin\Debug\net8.0\InsuranceClaimProcessor.pdb
+D:\VSCodezz\BankApp\InsuranceClaimProcessor\obj\Debug\net8.0\InsuranceClaimProcessor.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCodezz\BankApp\InsuranceClaimProcessor\obj\Debug\net8.0\InsuranceClaimProcessor.AssemblyInfoInputs.cache
+D:\VSCodezz\BankApp\InsuranceClaimProcessor\obj\Debug\net8.0\InsuranceClaimProcessor.AssemblyInfo.cs
+D:\VSCodezz\BankApp\InsuranceClaimProcessor\obj\Debug\net8.0\InsuranceClaimProcessor.csproj.CoreCompileInputs.cache
+D:\VSCodezz\BankApp\InsuranceClaimProcessor\obj\Debug\net8.0\InsuranceClaimProcessor.dll
+D:\VSCodezz\BankApp\InsuranceClaimProcessor\obj\Debug\net8.0\refint\InsuranceClaimProcessor.dll
+D:\VSCodezz\BankApp\InsuranceClaimProcessor\obj\Debug\net8.0\InsuranceClaimProcessor.pdb
+D:\VSCodezz\BankApp\InsuranceClaimProcessor\obj\Debug\net8.0\InsuranceClaimProcessor.genruntimeconfig.cache
+D:\VSCodezz\BankApp\InsuranceClaimProcessor\obj\Debug\net8.0\ref\InsuranceClaimProcessor.dll
