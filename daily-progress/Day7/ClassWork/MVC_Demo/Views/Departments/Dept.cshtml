@@ -1,0 +1,42 @@
+﻿@model IEnumerable<MVC_Demo.Models.Department>;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+	ViewData["Title"] = "Department Controller";
+}
+@* <h1> Department Controller </h1>
+<h3> Using ViewData Example </h3>
+<p> Name : @ViewData["Name"] </p>
+<p> Domain : @ViewData["Domain"] </p>
+<br />
+<h3> Using ViewBag Example </h3>
+<p> Company : @ViewBag.CompanyName </p>
+<br /> *@
+@* <h3> Strongly Typed </h3>
+<p> Department_Id : @Model.Id</p>
+<p> Department_Name : @Model.Name</p>
+<p> Department_Location : @Model.Location</p> *@
+
+<h3> List of Department </h3>
+<table class="table" table-striped>
+	<thead>
+		<tr>
+			<th> ID </th>
+			<th> Name </th>
+			<th> Location </th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var dept in Model)
+		{
+			<tr>
+				<td>@dept.Id</td>
+				<td>@dept.Name</td>
+				<td>@dept.Location</td>
+				<td>@Html.ActionLink("Department Details", "Details","Departments", new {id=dept.Id},null)</td>
+			</tr>
+		}
+	</tbody>
+</table>
+@await Html.PartialAsync("_DepartmentDetails", Model.First()) 

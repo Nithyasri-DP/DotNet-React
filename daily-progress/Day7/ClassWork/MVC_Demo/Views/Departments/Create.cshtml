@@ -1,0 +1,21 @@
+﻿@model MVC_Demo.Models.Department
+<h2> Create new Department </h2>
+<div class="container">
+<form asp-action="Create" method="post">
+	<div class="form-group">
+		<label asp-for="Id">  </label>
+		<input asp-for="Id" class="form-control"/>
+	</div>
+
+	<div class="form-group">
+		<label asp-for="Name">  </label>
+		<input asp-for="Name" class="form-control" />
+	</div>
+
+	<div class="form-group">
+		<label asp-for="Location">  </label>
+		<input asp-for="Location" class="form-control"/>
+	</div>
+	<button type="submit" class="btn-primary"> Create </button>
+</form>
+</div>
