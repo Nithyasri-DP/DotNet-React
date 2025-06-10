@@ -1,0 +1,22 @@
+2025-06-10 10:13:53,586 [7] INFO  Log4Net.Controllers.HomeController - Index action method called
+2025-06-10 10:13:53,807 [7] ERROR Log4Net.Controllers.HomeController - Error occuredAttempted to divide by zero.
+2025-06-10 10:13:58,553 [16] INFO  Log4Net.Controllers.HomeController - Index action method called
+2025-06-10 10:13:58,795 [16] ERROR Log4Net.Controllers.HomeController - Error occuredAttempted to divide by zero.
+2025-06-10 10:14:04,032 [10] INFO  Log4Net.Controllers.HomeController - Index action method called
+2025-06-10 10:14:04,093 [10] ERROR Log4Net.Controllers.HomeController - Error occuredAttempted to divide by zero.
+2025-06-10 10:14:05,247 [16] INFO  Log4Net.Controllers.HomeController - Index action method called
+2025-06-10 10:14:05,313 [16] ERROR Log4Net.Controllers.HomeController - Error occuredAttempted to divide by zero.
+2025-06-10 10:27:52,406 [9] INFO  Log4Net.Controllers.HomeController - Index action method called
+2025-06-10 10:27:52,616 [9] ERROR Log4Net.Controllers.HomeController - Error occuredAttempted to divide by zero.
+2025-06-10 10:27:56,018 [7] INFO  Log4Net.Controllers.HomeController - Index action method called
+2025-06-10 10:27:56,173 [7] ERROR Log4Net.Controllers.HomeController - Error occuredAttempted to divide by zero.
+2025-06-10 10:27:59,392 [17] INFO  Log4Net.Controllers.HomeController - Index action method called
+2025-06-10 10:27:59,444 [17] ERROR Log4Net.Controllers.HomeController - Error occuredAttempted to divide by zero.
+2025-06-10 10:41:59,556 [9] INFO  Log4Net.Controllers.HomeController - Index action method called
+2025-06-10 10:41:59,765 [9] ERROR Log4Net.Controllers.HomeController - Error occuredAttempted to divide by zero.
+2025-06-10 10:42:05,622 [18] INFO  Log4Net.Controllers.HomeController - Index action method called
+2025-06-10 10:42:05,676 [18] ERROR Log4Net.Controllers.HomeController - Error occuredAttempted to divide by zero.
+2025-06-10 10:58:53,631 [5] INFO  Log4Net.Controllers.HomeController - Index action method called
+2025-06-10 10:58:53,772 [5] ERROR Log4Net.Controllers.HomeController - Error occuredAttempted to divide by zero.
+2025-06-10 11:15:23,366 [10] INFO  Log4Net.Controllers.HomeController - Index action method called
+2025-06-10 11:15:23,521 [10] ERROR Log4Net.Controllers.HomeController - Error occuredAttempted to divide by zero.
