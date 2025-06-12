@@ -1,0 +1,475 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VSCodezz\\EF_DbFirstApproch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|d:\\vscodezz\\ef_dbfirstapproch\\ef_dbfirstapproch\\views\\stocks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|solutionrelative:ef_dbfirstapproch\\views\\stocks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|d:\\vscodezz\\ef_dbfirstapproch\\ef_dbfirstapproch\\views\\stocks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|solutionrelative:ef_dbfirstapproch\\views\\stocks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|d:\\vscodezz\\ef_dbfirstapproch\\ef_dbfirstapproch\\views\\stocks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|solutionrelative:ef_dbfirstapproch\\views\\stocks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|d:\\vscodezz\\ef_dbfirstapproch\\ef_dbfirstapproch\\views\\stocks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|solutionrelative:ef_dbfirstapproch\\views\\stocks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|d:\\vscodezz\\ef_dbfirstapproch\\ef_dbfirstapproch\\views\\stocks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|solutionrelative:ef_dbfirstapproch\\views\\stocks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|d:\\vscodezz\\ef_dbfirstapproch\\ef_dbfirstapproch\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|solutionrelative:ef_dbfirstapproch\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|d:\\vscodezz\\ef_dbfirstapproch\\ef_dbfirstapproch\\views\\orderitems\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|solutionrelative:ef_dbfirstapproch\\views\\orderitems\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|d:\\vscodezz\\ef_dbfirstapproch\\ef_dbfirstapproch\\views\\orderitems\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|solutionrelative:ef_dbfirstapproch\\views\\orderitems\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|d:\\vscodezz\\ef_dbfirstapproch\\ef_dbfirstapproch\\views\\orderitems\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|solutionrelative:ef_dbfirstapproch\\views\\orderitems\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|d:\\vscodezz\\ef_dbfirstapproch\\ef_dbfirstapproch\\views\\orderitems\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|solutionrelative:ef_dbfirstapproch\\views\\orderitems\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|d:\\vscodezz\\ef_dbfirstapproch\\ef_dbfirstapproch\\views\\orderitems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|solutionrelative:ef_dbfirstapproch\\views\\orderitems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|d:\\vscodezz\\ef_dbfirstapproch\\ef_dbfirstapproch\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|solutionrelative:ef_dbfirstapproch\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|d:\\vscodezz\\ef_dbfirstapproch\\ef_dbfirstapproch\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|solutionrelative:ef_dbfirstapproch\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|d:\\vscodezz\\ef_dbfirstapproch\\ef_dbfirstapproch\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|solutionrelative:ef_dbfirstapproch\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|d:\\vscodezz\\ef_dbfirstapproch\\ef_dbfirstapproch\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|solutionrelative:ef_dbfirstapproch\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|d:\\vscodezz\\ef_dbfirstapproch\\ef_dbfirstapproch\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|solutionrelative:ef_dbfirstapproch\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|d:\\vscodezz\\ef_dbfirstapproch\\ef_dbfirstapproch\\controllers\\storescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|solutionrelative:ef_dbfirstapproch\\controllers\\storescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|d:\\vscodezz\\ef_dbfirstapproch\\ef_dbfirstapproch\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|solutionrelative:ef_dbfirstapproch\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|d:\\vscodezz\\ef_dbfirstapproch\\ef_dbfirstapproch\\controllers\\staffscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|solutionrelative:ef_dbfirstapproch\\controllers\\staffscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|d:\\vscodezz\\ef_dbfirstapproch\\ef_dbfirstapproch\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|solutionrelative:ef_dbfirstapproch\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|d:\\vscodezz\\ef_dbfirstapproch\\ef_dbfirstapproch\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|solutionrelative:ef_dbfirstapproch\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|d:\\vscodezz\\ef_dbfirstapproch\\ef_dbfirstapproch\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|solutionrelative:ef_dbfirstapproch\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|d:\\vscodezz\\ef_dbfirstapproch\\ef_dbfirstapproch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|solutionrelative:ef_dbfirstapproch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|d:\\vscodezz\\ef_dbfirstapproch\\ef_dbfirstapproch\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|solutionrelative:ef_dbfirstapproch\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|d:\\vscodezz\\ef_dbfirstapproch\\ef_dbfirstapproch\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|solutionrelative:ef_dbfirstapproch\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|d:\\vscodezz\\ef_dbfirstapproch\\ef_dbfirstapproch\\models\\bikestorescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|solutionrelative:ef_dbfirstapproch\\models\\bikestorescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|d:\\vscodezz\\ef_dbfirstapproch\\ef_dbfirstapproch\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|solutionrelative:ef_dbfirstapproch\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|d:\\vscodezz\\ef_dbfirstapproch\\ef_dbfirstapproch\\ef_dbfirstapproch.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B522EDCD-4AE6-40CA-901B-3BEFC9625FB5}|EF_DbFirstApproch\\EF_DbFirstApproch.csproj|solutionrelative:ef_dbfirstapproch\\ef_dbfirstapproch.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Views\\Stocks\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EF_DbFirstApproch\\Views\\Stocks\\Delete.cshtml",
+              "ToolTip": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Views\\Stocks\\Delete.cshtml",
+              "RelativeToolTip": "EF_DbFirstApproch\\Views\\Stocks\\Delete.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T05:22:50.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Views\\Stocks\\Create.cshtml",
+              "RelativeDocumentMoniker": "EF_DbFirstApproch\\Views\\Stocks\\Create.cshtml",
+              "ToolTip": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Views\\Stocks\\Create.cshtml",
+              "RelativeToolTip": "EF_DbFirstApproch\\Views\\Stocks\\Create.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T05:22:14.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StocksController.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Controllers\\StocksController.cs",
+              "RelativeDocumentMoniker": "EF_DbFirstApproch\\Controllers\\StocksController.cs",
+              "ToolTip": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Controllers\\StocksController.cs",
+              "RelativeToolTip": "EF_DbFirstApproch\\Controllers\\StocksController.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAADwv6cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T01:50:33.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Views\\OrderItems\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EF_DbFirstApproch\\Views\\OrderItems\\Edit.cshtml",
+              "ToolTip": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Views\\OrderItems\\Edit.cshtml",
+              "RelativeToolTip": "EF_DbFirstApproch\\Views\\OrderItems\\Edit.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T03:12:56.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Views\\OrderItems\\Details.cshtml",
+              "RelativeDocumentMoniker": "EF_DbFirstApproch\\Views\\OrderItems\\Details.cshtml",
+              "ToolTip": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Views\\OrderItems\\Details.cshtml",
+              "RelativeToolTip": "EF_DbFirstApproch\\Views\\OrderItems\\Details.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T03:12:46.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Views\\OrderItems\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EF_DbFirstApproch\\Views\\OrderItems\\Delete.cshtml",
+              "ToolTip": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Views\\OrderItems\\Delete.cshtml",
+              "RelativeToolTip": "EF_DbFirstApproch\\Views\\OrderItems\\Delete.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T03:13:00.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Views\\Stocks\\Details.cshtml",
+              "RelativeDocumentMoniker": "EF_DbFirstApproch\\Views\\Stocks\\Details.cshtml",
+              "ToolTip": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Views\\Stocks\\Details.cshtml",
+              "RelativeToolTip": "EF_DbFirstApproch\\Views\\Stocks\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T03:41:50.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Views\\Stocks\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EF_DbFirstApproch\\Views\\Stocks\\Edit.cshtml",
+              "ToolTip": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Views\\Stocks\\Edit.cshtml",
+              "RelativeToolTip": "EF_DbFirstApproch\\Views\\Stocks\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T03:38:32.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Views\\Stocks\\Index.cshtml",
+              "RelativeDocumentMoniker": "EF_DbFirstApproch\\Views\\Stocks\\Index.cshtml",
+              "ToolTip": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Views\\Stocks\\Index.cshtml",
+              "RelativeToolTip": "EF_DbFirstApproch\\Views\\Stocks\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T03:38:34.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderItemsController.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Controllers\\OrderItemsController.cs",
+              "RelativeDocumentMoniker": "EF_DbFirstApproch\\Controllers\\OrderItemsController.cs",
+              "ToolTip": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Controllers\\OrderItemsController.cs",
+              "RelativeToolTip": "EF_DbFirstApproch\\Controllers\\OrderItemsController.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAA/wKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T01:58:11.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StoresController.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Controllers\\StoresController.cs",
+              "RelativeDocumentMoniker": "EF_DbFirstApproch\\Controllers\\StoresController.cs",
+              "ToolTip": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Controllers\\StoresController.cs",
+              "RelativeToolTip": "EF_DbFirstApproch\\Controllers\\StoresController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T02:05:14.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Views\\OrderItems\\Index.cshtml",
+              "RelativeDocumentMoniker": "EF_DbFirstApproch\\Views\\OrderItems\\Index.cshtml",
+              "ToolTip": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Views\\OrderItems\\Index.cshtml",
+              "RelativeToolTip": "EF_DbFirstApproch\\Views\\OrderItems\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T03:05:11.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Views\\OrderItems\\Create.cshtml",
+              "RelativeDocumentMoniker": "EF_DbFirstApproch\\Views\\OrderItems\\Create.cshtml",
+              "ToolTip": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Views\\OrderItems\\Create.cshtml",
+              "RelativeToolTip": "EF_DbFirstApproch\\Views\\OrderItems\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwCsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T03:13:58.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "EF_DbFirstApproch\\Models\\OrderItem.cs",
+              "ToolTip": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Models\\OrderItem.cs",
+              "RelativeToolTip": "EF_DbFirstApproch\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T03:10:55.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "EF_DbFirstApproch\\Models\\Stock.cs",
+              "ToolTip": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Models\\Stock.cs",
+              "RelativeToolTip": "EF_DbFirstApproch\\Models\\Stock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T03:39:18.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Store.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Models\\Store.cs",
+              "RelativeDocumentMoniker": "EF_DbFirstApproch\\Models\\Store.cs",
+              "ToolTip": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Models\\Store.cs",
+              "RelativeToolTip": "EF_DbFirstApproch\\Models\\Store.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T03:32:15.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StaffsController.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Controllers\\StaffsController.cs",
+              "RelativeDocumentMoniker": "EF_DbFirstApproch\\Controllers\\StaffsController.cs",
+              "ToolTip": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Controllers\\StaffsController.cs",
+              "RelativeToolTip": "EF_DbFirstApproch\\Controllers\\StaffsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T02:02:40.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "EF_DbFirstApproch\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "EF_DbFirstApproch\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T01:59:25.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "EF_DbFirstApproch\\Models\\Brand.cs",
+              "ToolTip": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Models\\Brand.cs",
+              "RelativeToolTip": "EF_DbFirstApproch\\Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:47:13.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "EF_DbFirstApproch\\Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "EF_DbFirstApproch\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T01:56:56.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "EF_DbFirstApproch\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "EF_DbFirstApproch\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T01:49:13.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EF_DbFirstApproch\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EF_DbFirstApproch\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T01:42:28.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "EF_DbFirstApproch\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "EF_DbFirstApproch\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T01:42:15.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Program.cs",
+              "RelativeDocumentMoniker": "EF_DbFirstApproch\\Program.cs",
+              "ToolTip": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Program.cs",
+              "RelativeToolTip": "EF_DbFirstApproch\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T12:18:47.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "EF_DbFirstApproch\\Controllers\\BrandsController.cs",
+              "ToolTip": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "EF_DbFirstApproch\\Controllers\\BrandsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:48:52.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BikeStoresContext.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Models\\BikeStoresContext.cs",
+              "RelativeDocumentMoniker": "EF_DbFirstApproch\\Models\\BikeStoresContext.cs",
+              "ToolTip": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\Models\\BikeStoresContext.cs",
+              "RelativeToolTip": "EF_DbFirstApproch\\Models\\BikeStoresContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:38:35.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EF_DbFirstApproch.csproj",
+              "DocumentMoniker": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\EF_DbFirstApproch.csproj",
+              "RelativeDocumentMoniker": "EF_DbFirstApproch\\EF_DbFirstApproch.csproj",
+              "ToolTip": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\EF_DbFirstApproch.csproj",
+              "RelativeToolTip": "EF_DbFirstApproch\\EF_DbFirstApproch.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-11T09:31:04.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\appsettings.json",
+              "RelativeDocumentMoniker": "EF_DbFirstApproch\\appsettings.json",
+              "ToolTip": "D:\\VSCodezz\\EF_DbFirstApproch\\EF_DbFirstApproch\\appsettings.json",
+              "RelativeToolTip": "EF_DbFirstApproch\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-11T09:09:25.251Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
