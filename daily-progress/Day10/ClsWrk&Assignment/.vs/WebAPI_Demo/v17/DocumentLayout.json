@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VSCodezz\\WebAPI_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1496D0B-B18F-441B-87C6-FBF5C6EA941C}|WebAPI_Demo\\WebAPI_Demo.csproj|d:\\vscodezz\\webapi_demo\\webapi_demo\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1496D0B-B18F-441B-87C6-FBF5C6EA941C}|WebAPI_Demo\\WebAPI_Demo.csproj|solutionrelative:webapi_demo\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1496D0B-B18F-441B-87C6-FBF5C6EA941C}|WebAPI_Demo\\WebAPI_Demo.csproj|d:\\vscodezz\\webapi_demo\\webapi_demo\\repositories\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1496D0B-B18F-441B-87C6-FBF5C6EA941C}|WebAPI_Demo\\WebAPI_Demo.csproj|solutionrelative:webapi_demo\\repositories\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1496D0B-B18F-441B-87C6-FBF5C6EA941C}|WebAPI_Demo\\WebAPI_Demo.csproj|d:\\vscodezz\\webapi_demo\\webapi_demo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1496D0B-B18F-441B-87C6-FBF5C6EA941C}|WebAPI_Demo\\WebAPI_Demo.csproj|solutionrelative:webapi_demo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1496D0B-B18F-441B-87C6-FBF5C6EA941C}|WebAPI_Demo\\WebAPI_Demo.csproj|d:\\vscodezz\\webapi_demo\\webapi_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1496D0B-B18F-441B-87C6-FBF5C6EA941C}|WebAPI_Demo\\WebAPI_Demo.csproj|solutionrelative:webapi_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1496D0B-B18F-441B-87C6-FBF5C6EA941C}|WebAPI_Demo\\WebAPI_Demo.csproj|d:\\vscodezz\\webapi_demo\\webapi_demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D1496D0B-B18F-441B-87C6-FBF5C6EA941C}|WebAPI_Demo\\WebAPI_Demo.csproj|solutionrelative:webapi_demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3F0D97-1C62-4313-A6D3-7027FE5B2E6F}|AssignmentAPI\\AssignmentAPI.csproj|d:\\vscodezz\\webapi_demo\\assignmentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3F0D97-1C62-4313-A6D3-7027FE5B2E6F}|AssignmentAPI\\AssignmentAPI.csproj|solutionrelative:assignmentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3F0D97-1C62-4313-A6D3-7027FE5B2E6F}|AssignmentAPI\\AssignmentAPI.csproj|d:\\vscodezz\\webapi_demo\\assignmentapi\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3F0D97-1C62-4313-A6D3-7027FE5B2E6F}|AssignmentAPI\\AssignmentAPI.csproj|solutionrelative:assignmentapi\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3F0D97-1C62-4313-A6D3-7027FE5B2E6F}|AssignmentAPI\\AssignmentAPI.csproj|d:\\vscodezz\\webapi_demo\\assignmentapi\\repositories\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3F0D97-1C62-4313-A6D3-7027FE5B2E6F}|AssignmentAPI\\AssignmentAPI.csproj|solutionrelative:assignmentapi\\repositories\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3F0D97-1C62-4313-A6D3-7027FE5B2E6F}|AssignmentAPI\\AssignmentAPI.csproj|d:\\vscodezz\\webapi_demo\\assignmentapi\\repositories\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3F0D97-1C62-4313-A6D3-7027FE5B2E6F}|AssignmentAPI\\AssignmentAPI.csproj|solutionrelative:assignmentapi\\repositories\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3F0D97-1C62-4313-A6D3-7027FE5B2E6F}|AssignmentAPI\\AssignmentAPI.csproj|d:\\vscodezz\\webapi_demo\\assignmentapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3F0D97-1C62-4313-A6D3-7027FE5B2E6F}|AssignmentAPI\\AssignmentAPI.csproj|solutionrelative:assignmentapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3F0D97-1C62-4313-A6D3-7027FE5B2E6F}|AssignmentAPI\\AssignmentAPI.csproj|d:\\vscodezz\\webapi_demo\\assignmentapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3F0D97-1C62-4313-A6D3-7027FE5B2E6F}|AssignmentAPI\\AssignmentAPI.csproj|solutionrelative:assignmentapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\WebAPI_Demo\\WebAPI_Demo\\Repositories\\StudentService.cs",
+              "RelativeDocumentMoniker": "WebAPI_Demo\\Repositories\\StudentService.cs",
+              "ToolTip": "D:\\VSCodezz\\WebAPI_Demo\\WebAPI_Demo\\Repositories\\StudentService.cs",
+              "RelativeToolTip": "WebAPI_Demo\\Repositories\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T01:50:41.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\WebAPI_Demo\\WebAPI_Demo\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "WebAPI_Demo\\Models\\Student.cs",
+              "ToolTip": "D:\\VSCodezz\\WebAPI_Demo\\WebAPI_Demo\\Models\\Student.cs",
+              "RelativeToolTip": "WebAPI_Demo\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T01:50:33.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\VSCodezz\\WebAPI_Demo\\WebAPI_Demo\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI_Demo\\appsettings.json",
+              "ToolTip": "D:\\VSCodezz\\WebAPI_Demo\\WebAPI_Demo\\appsettings.json",
+              "RelativeToolTip": "WebAPI_Demo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T16:57:31.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\WebAPI_Demo\\WebAPI_Demo\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "WebAPI_Demo\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\VSCodezz\\WebAPI_Demo\\WebAPI_Demo\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "WebAPI_Demo\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowEYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:02:41.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\WebAPI_Demo\\WebAPI_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI_Demo\\Program.cs",
+              "ToolTip": "D:\\VSCodezz\\WebAPI_Demo\\WebAPI_Demo\\Program.cs",
+              "RelativeToolTip": "WebAPI_Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T10:22:36.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\WebAPI_Demo\\AssignmentAPI\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "AssignmentAPI\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "D:\\VSCodezz\\WebAPI_Demo\\AssignmentAPI\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "AssignmentAPI\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:41:39.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\WebAPI_Demo\\AssignmentAPI\\Repositories\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "AssignmentAPI\\Repositories\\IDepartmentService.cs",
+              "ToolTip": "D:\\VSCodezz\\WebAPI_Demo\\AssignmentAPI\\Repositories\\IDepartmentService.cs",
+              "RelativeToolTip": "AssignmentAPI\\Repositories\\IDepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:41:14.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\WebAPI_Demo\\AssignmentAPI\\Repositories\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "AssignmentAPI\\Repositories\\DepartmentService.cs",
+              "ToolTip": "D:\\VSCodezz\\WebAPI_Demo\\AssignmentAPI\\Repositories\\DepartmentService.cs",
+              "RelativeToolTip": "AssignmentAPI\\Repositories\\DepartmentService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwA0AAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:40:48.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\WebAPI_Demo\\AssignmentAPI\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "AssignmentAPI\\Models\\Department.cs",
+              "ToolTip": "D:\\VSCodezz\\WebAPI_Demo\\AssignmentAPI\\Models\\Department.cs",
+              "RelativeToolTip": "AssignmentAPI\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:40:25.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\WebAPI_Demo\\AssignmentAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentAPI\\Program.cs",
+              "ToolTip": "D:\\VSCodezz\\WebAPI_Demo\\AssignmentAPI\\Program.cs",
+              "RelativeToolTip": "AssignmentAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:38:12.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\WebAPI_Demo\\AssignmentAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AssignmentAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\VSCodezz\\WebAPI_Demo\\AssignmentAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AssignmentAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:37:32.074Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
