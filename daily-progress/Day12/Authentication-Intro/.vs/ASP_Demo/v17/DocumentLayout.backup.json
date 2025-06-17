@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VSCodezz\\ASP_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B82DB83F-6F9D-4653-897D-4425C7E4AF39}|Authentication_Demo\\Authentication_Demo.csproj|d:\\vscodezz\\asp_demo\\authentication_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82DB83F-6F9D-4653-897D-4425C7E4AF39}|Authentication_Demo\\Authentication_Demo.csproj|solutionrelative:authentication_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82DB83F-6F9D-4653-897D-4425C7E4AF39}|Authentication_Demo\\Authentication_Demo.csproj|d:\\vscodezz\\asp_demo\\authentication_demo\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82DB83F-6F9D-4653-897D-4425C7E4AF39}|Authentication_Demo\\Authentication_Demo.csproj|solutionrelative:authentication_demo\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82DB83F-6F9D-4653-897D-4425C7E4AF39}|Authentication_Demo\\Authentication_Demo.csproj|d:\\vscodezz\\asp_demo\\authentication_demo\\authentication\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82DB83F-6F9D-4653-897D-4425C7E4AF39}|Authentication_Demo\\Authentication_Demo.csproj|solutionrelative:authentication_demo\\authentication\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82DB83F-6F9D-4653-897D-4425C7E4AF39}|Authentication_Demo\\Authentication_Demo.csproj|d:\\vscodezz\\asp_demo\\authentication_demo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82DB83F-6F9D-4653-897D-4425C7E4AF39}|Authentication_Demo\\Authentication_Demo.csproj|solutionrelative:authentication_demo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82DB83F-6F9D-4653-897D-4425C7E4AF39}|Authentication_Demo\\Authentication_Demo.csproj|d:\\vscodezz\\asp_demo\\authentication_demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B82DB83F-6F9D-4653-897D-4425C7E4AF39}|Authentication_Demo\\Authentication_Demo.csproj|solutionrelative:authentication_demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82DB83F-6F9D-4653-897D-4425C7E4AF39}|Authentication_Demo\\Authentication_Demo.csproj|d:\\vscodezz\\asp_demo\\authentication_demo\\authentication_demo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B82DB83F-6F9D-4653-897D-4425C7E4AF39}|Authentication_Demo\\Authentication_Demo.csproj|solutionrelative:authentication_demo\\authentication_demo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82DB83F-6F9D-4653-897D-4425C7E4AF39}|Authentication_Demo\\Authentication_Demo.csproj|d:\\vscodezz\\asp_demo\\authentication_demo\\migrations\\20250616090441_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82DB83F-6F9D-4653-897D-4425C7E4AF39}|Authentication_Demo\\Authentication_Demo.csproj|solutionrelative:authentication_demo\\migrations\\20250616090441_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82DB83F-6F9D-4653-897D-4425C7E4AF39}|Authentication_Demo\\Authentication_Demo.csproj|d:\\vscodezz\\asp_demo\\authentication_demo\\authentication\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82DB83F-6F9D-4653-897D-4425C7E4AF39}|Authentication_Demo\\Authentication_Demo.csproj|solutionrelative:authentication_demo\\authentication\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82DB83F-6F9D-4653-897D-4425C7E4AF39}|Authentication_Demo\\Authentication_Demo.csproj|d:\\vscodezz\\asp_demo\\authentication_demo\\authentication\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82DB83F-6F9D-4653-897D-4425C7E4AF39}|Authentication_Demo\\Authentication_Demo.csproj|solutionrelative:authentication_demo\\authentication\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82DB83F-6F9D-4653-897D-4425C7E4AF39}|Authentication_Demo\\Authentication_Demo.csproj|d:\\vscodezz\\asp_demo\\authentication_demo\\authentication\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82DB83F-6F9D-4653-897D-4425C7E4AF39}|Authentication_Demo\\Authentication_Demo.csproj|solutionrelative:authentication_demo\\authentication\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82DB83F-6F9D-4653-897D-4425C7E4AF39}|Authentication_Demo\\Authentication_Demo.csproj|d:\\vscodezz\\asp_demo\\authentication_demo\\authentication\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82DB83F-6F9D-4653-897D-4425C7E4AF39}|Authentication_Demo\\Authentication_Demo.csproj|solutionrelative:authentication_demo\\authentication\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82DB83F-6F9D-4653-897D-4425C7E4AF39}|Authentication_Demo\\Authentication_Demo.csproj|d:\\vscodezz\\asp_demo\\authentication_demo\\authentication_demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B82DB83F-6F9D-4653-897D-4425C7E4AF39}|Authentication_Demo\\Authentication_Demo.csproj|solutionrelative:authentication_demo\\authentication_demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82DB83F-6F9D-4653-897D-4425C7E4AF39}|Authentication_Demo\\Authentication_Demo.csproj|d:\\vscodezz\\asp_demo\\authentication_demo\\authentication\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82DB83F-6F9D-4653-897D-4425C7E4AF39}|Authentication_Demo\\Authentication_Demo.csproj|solutionrelative:authentication_demo\\authentication\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\VSCodezz\\ASP_Demo\\Authentication_Demo\\appsettings.json",
+              "RelativeDocumentMoniker": "Authentication_Demo\\appsettings.json",
+              "ToolTip": "D:\\VSCodezz\\ASP_Demo\\Authentication_Demo\\appsettings.json",
+              "RelativeToolTip": "Authentication_Demo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-16T06:04:46.876Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Authentication_Demo.http",
+              "DocumentMoniker": "D:\\VSCodezz\\ASP_Demo\\Authentication_Demo\\Authentication_Demo.http",
+              "RelativeDocumentMoniker": "Authentication_Demo\\Authentication_Demo.http",
+              "ToolTip": "D:\\VSCodezz\\ASP_Demo\\Authentication_Demo\\Authentication_Demo.http",
+              "RelativeToolTip": "Authentication_Demo\\Authentication_Demo.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-16T16:36:26.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\ASP_Demo\\Authentication_Demo\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Authentication_Demo\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\VSCodezz\\ASP_Demo\\Authentication_Demo\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Authentication_Demo\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:50:06.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250616090441_InitialCreate.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\ASP_Demo\\Authentication_Demo\\Migrations\\20250616090441_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Authentication_Demo\\Migrations\\20250616090441_InitialCreate.cs",
+              "ToolTip": "D:\\VSCodezz\\ASP_Demo\\Authentication_Demo\\Migrations\\20250616090441_InitialCreate.cs",
+              "RelativeToolTip": "Authentication_Demo\\Migrations\\20250616090441_InitialCreate.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T09:04:43.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\ASP_Demo\\Authentication_Demo\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Authentication_Demo\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\VSCodezz\\ASP_Demo\\Authentication_Demo\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Authentication_Demo\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAQwGoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T07:15:54.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\ASP_Demo\\Authentication_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Authentication_Demo\\Program.cs",
+              "ToolTip": "D:\\VSCodezz\\ASP_Demo\\Authentication_Demo\\Program.cs",
+              "RelativeToolTip": "Authentication_Demo\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwDQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:20:48.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\ASP_Demo\\Authentication_Demo\\Authentication\\UserRoles.cs",
+              "RelativeDocumentMoniker": "Authentication_Demo\\Authentication\\UserRoles.cs",
+              "ToolTip": "D:\\VSCodezz\\ASP_Demo\\Authentication_Demo\\Authentication\\UserRoles.cs",
+              "RelativeToolTip": "Authentication_Demo\\Authentication\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T05:26:35.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Response.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\ASP_Demo\\Authentication_Demo\\Authentication\\Response.cs",
+              "RelativeDocumentMoniker": "Authentication_Demo\\Authentication\\Response.cs",
+              "ToolTip": "D:\\VSCodezz\\ASP_Demo\\Authentication_Demo\\Authentication\\Response.cs",
+              "RelativeToolTip": "Authentication_Demo\\Authentication\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T05:25:47.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\ASP_Demo\\Authentication_Demo\\Authentication\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "Authentication_Demo\\Authentication\\RegisterModel.cs",
+              "ToolTip": "D:\\VSCodezz\\ASP_Demo\\Authentication_Demo\\Authentication\\RegisterModel.cs",
+              "RelativeToolTip": "Authentication_Demo\\Authentication\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T05:25:18.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\ASP_Demo\\Authentication_Demo\\Authentication\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Authentication_Demo\\Authentication\\LoginModel.cs",
+              "ToolTip": "D:\\VSCodezz\\ASP_Demo\\Authentication_Demo\\Authentication\\LoginModel.cs",
+              "RelativeToolTip": "Authentication_Demo\\Authentication\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T05:24:53.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\ASP_Demo\\Authentication_Demo\\Authentication\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Authentication_Demo\\Authentication\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\VSCodezz\\ASP_Demo\\Authentication_Demo\\Authentication\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Authentication_Demo\\Authentication\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T05:24:19.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\ASP_Demo\\Authentication_Demo\\Authentication\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Authentication_Demo\\Authentication\\ApplicationUser.cs",
+              "ToolTip": "D:\\VSCodezz\\ASP_Demo\\Authentication_Demo\\Authentication\\ApplicationUser.cs",
+              "RelativeToolTip": "Authentication_Demo\\Authentication\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T05:22:45.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Authentication_Demo.csproj",
+              "DocumentMoniker": "D:\\VSCodezz\\ASP_Demo\\Authentication_Demo\\Authentication_Demo.csproj",
+              "RelativeDocumentMoniker": "Authentication_Demo\\Authentication_Demo.csproj",
+              "ToolTip": "D:\\VSCodezz\\ASP_Demo\\Authentication_Demo\\Authentication_Demo.csproj",
+              "RelativeToolTip": "Authentication_Demo\\Authentication_Demo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-16T05:15:30.414Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
