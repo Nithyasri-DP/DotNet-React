@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VSCodezz\\WebAPI_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|d:\\vscodezz\\webapi_mvc\\webapi_mvc\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|solutionrelative:webapi_mvc\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|d:\\vscodezz\\webapi_mvc\\webapi_mvc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|solutionrelative:webapi_mvc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|d:\\vscodezz\\webapi_mvc\\webapi_mvc\\dtos\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|solutionrelative:webapi_mvc\\dtos\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|d:\\vscodezz\\webapi_mvc\\webapi_mvc\\dtos\\productcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|solutionrelative:webapi_mvc\\dtos\\productcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|d:\\vscodezz\\webapi_mvc\\webapi_mvc\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|solutionrelative:webapi_mvc\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|d:\\vscodezz\\webapi_mvc\\webapi_mvc\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|solutionrelative:webapi_mvc\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|d:\\vscodezz\\webapi_mvc\\webapi_mvc\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|solutionrelative:webapi_mvc\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|d:\\vscodezz\\webapi_mvc\\webapi_mvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|solutionrelative:webapi_mvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|d:\\vscodezz\\webapi_mvc\\webapi_mvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|solutionrelative:webapi_mvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|d:\\vscodezz\\webapi_mvc\\webapi_mvc\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|solutionrelative:webapi_mvc\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|d:\\vscodezz\\webapi_mvc\\webapi_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|solutionrelative:webapi_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|d:\\vscodezz\\webapi_mvc\\webapi_mvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|solutionrelative:webapi_mvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NITHYA\\AppData\\Local\\Temp\\y0xrqcvv..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|d:\\vscodezz\\webapi_mvc\\webapi_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|solutionrelative:webapi_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|d:\\vscodezz\\webapi_mvc\\webapi_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|solutionrelative:webapi_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|d:\\vscodezz\\webapi_mvc\\webapi_mvc\\webapi_mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|solutionrelative:webapi_mvc\\webapi_mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|d:\\vscodezz\\webapi_mvc\\webapi_mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|solutionrelative:webapi_mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|d:\\vscodezz\\webapi_mvc\\webapi_mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|solutionrelative:webapi_mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|d:\\vscodezz\\webapi_mvc\\webapi_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EE9260-E150-4086-8D69-5270B0FB89CC}|WebAPI_MVC\\WebAPI_MVC.csproj|solutionrelative:webapi_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductUpdateDTO.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\DTOs\\ProductUpdateDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI_MVC\\DTOs\\ProductUpdateDTO.cs",
+              "ToolTip": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\DTOs\\ProductUpdateDTO.cs",
+              "RelativeToolTip": "WebAPI_MVC\\DTOs\\ProductUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:46:57.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI_MVC\\DTOs\\ProductDTO.cs",
+              "ToolTip": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "WebAPI_MVC\\DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:46:52.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductCreationDTO.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\DTOs\\ProductCreationDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI_MVC\\DTOs\\ProductCreationDTO.cs",
+              "ToolTip": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\DTOs\\ProductCreationDTO.cs",
+              "RelativeToolTip": "WebAPI_MVC\\DTOs\\ProductCreationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:46:37.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "y0xrqcvv..sql",
+              "DocumentMoniker": "C:\\Users\\NITHYA\\AppData\\Local\\Temp\\y0xrqcvv..sql",
+              "ToolTip": "C:\\Users\\NITHYA\\AppData\\Local\\Temp\\y0xrqcvv..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-18T05:01:26.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI_MVC\\appsettings.json",
+              "ToolTip": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\appsettings.json",
+              "RelativeToolTip": "WebAPI_MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-18T04:57:54.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WebAPI_MVC.csproj",
+              "DocumentMoniker": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\WebAPI_MVC.csproj",
+              "RelativeDocumentMoniker": "WebAPI_MVC\\WebAPI_MVC.csproj",
+              "ToolTip": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\WebAPI_MVC.csproj",
+              "RelativeToolTip": "WebAPI_MVC\\WebAPI_MVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-18T02:22:00.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebAPI_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebAPI_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T11:27:58.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebAPI_MVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebAPI_MVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:27:55.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebAPI_MVC\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebAPI_MVC\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T10:59:37.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI_MVC\\Program.cs",
+              "ToolTip": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\Program.cs",
+              "RelativeToolTip": "WebAPI_MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:54:51.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAPI_MVC\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "WebAPI_MVC\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T10:46:05.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebAPI_MVC\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "WebAPI_MVC\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T10:40:52.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebAPI_MVC\\Views\\Products\\Details.cshtml",
+              "ToolTip": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "WebAPI_MVC\\Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T10:38:20.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebAPI_MVC\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "WebAPI_MVC\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T10:37:30.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebAPI_MVC\\Views\\Products\\Create.cshtml",
+              "ToolTip": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "WebAPI_MVC\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T10:34:28.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "WebAPI_MVC\\Services\\ProductService.cs",
+              "ToolTip": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\Services\\ProductService.cs",
+              "RelativeToolTip": "WebAPI_MVC\\Services\\ProductService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA0wDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:18:17.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebAPI_MVC\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebAPI_MVC\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAwwJEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:14:20.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebAPI_MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebAPI_MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:13:40.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebAPI_MVC\\Models\\Product.cs",
+              "ToolTip": "D:\\VSCodezz\\WebAPI_MVC\\WebAPI_MVC\\Models\\Product.cs",
+              "RelativeToolTip": "WebAPI_MVC\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:12:26.452Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
