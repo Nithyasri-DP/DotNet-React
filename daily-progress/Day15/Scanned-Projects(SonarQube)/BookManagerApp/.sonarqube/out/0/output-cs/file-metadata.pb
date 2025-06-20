@@ -1,0 +1,9 @@
+d
+YD:\VSCodezz\BookManagerApp\BookManagerApp\obj\Debug\net8.0\BookManagerApp.AssemblyInfo.csutf-8i
+^D:\VSCodezz\BookManagerApp\BookManagerApp\obj\Debug\net8.0\BookManagerApp.RazorAssemblyInfo.csutf-8t
+iD:\VSCodezz\BookManagerApp\BookManagerApp\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8f
+[D:\VSCodezz\BookManagerApp\BookManagerApp\obj\Debug\net8.0\BookManagerApp.GlobalUsings.g.csutf-8=
+4D:\VSCodezz\BookManagerApp\BookManagerApp\Program.csutf-8K
+BD:\VSCodezz\BookManagerApp\BookManagerApp\Models\ErrorViewModel.csutf-8P
+GD:\VSCodezz\BookManagerApp\BookManagerApp\Controllers\BookController.csutf-8A
+8D:\VSCodezz\BookManagerApp\BookManagerApp\Models\Book.csutf-8

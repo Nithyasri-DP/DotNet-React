@@ -1,0 +1,5 @@
+﻿D:\VSCodezz\InsuranceApp\InsuranceApp\Models\Customer.cs
+D:\VSCodezz\InsuranceApp\InsuranceApp\Models\Insurance.cs
+D:\VSCodezz\InsuranceApp\InsuranceApp\Program.cs
+D:\VSCodezz\InsuranceApp\InsuranceApp\Services\DataSample.cs
+D:\VSCodezz\InsuranceApp\InsuranceApp\Services\QueryHelper.cs

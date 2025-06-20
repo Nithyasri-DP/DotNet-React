@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VSCodezz\\BookManagerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2858C0-E8F3-4162-AAE1-6155C3781958}|BookManagerApp\\BookManagerApp.csproj|d:\\vscodezz\\bookmanagerapp\\bookmanagerapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F2858C0-E8F3-4162-AAE1-6155C3781958}|BookManagerApp\\BookManagerApp.csproj|solutionrelative:bookmanagerapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2858C0-E8F3-4162-AAE1-6155C3781958}|BookManagerApp\\BookManagerApp.csproj|d:\\vscodezz\\bookmanagerapp\\bookmanagerapp\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F2858C0-E8F3-4162-AAE1-6155C3781958}|BookManagerApp\\BookManagerApp.csproj|solutionrelative:bookmanagerapp\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2858C0-E8F3-4162-AAE1-6155C3781958}|BookManagerApp\\BookManagerApp.csproj|d:\\vscodezz\\bookmanagerapp\\bookmanagerapp\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F2858C0-E8F3-4162-AAE1-6155C3781958}|BookManagerApp\\BookManagerApp.csproj|solutionrelative:bookmanagerapp\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2858C0-E8F3-4162-AAE1-6155C3781958}|BookManagerApp\\BookManagerApp.csproj|d:\\vscodezz\\bookmanagerapp\\bookmanagerapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2858C0-E8F3-4162-AAE1-6155C3781958}|BookManagerApp\\BookManagerApp.csproj|solutionrelative:bookmanagerapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2858C0-E8F3-4162-AAE1-6155C3781958}|BookManagerApp\\BookManagerApp.csproj|d:\\vscodezz\\bookmanagerapp\\bookmanagerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2858C0-E8F3-4162-AAE1-6155C3781958}|BookManagerApp\\BookManagerApp.csproj|solutionrelative:bookmanagerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2858C0-E8F3-4162-AAE1-6155C3781958}|BookManagerApp\\BookManagerApp.csproj|d:\\vscodezz\\bookmanagerapp\\bookmanagerapp\\views\\books\\_bookdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F2858C0-E8F3-4162-AAE1-6155C3781958}|BookManagerApp\\BookManagerApp.csproj|solutionrelative:bookmanagerapp\\views\\books\\_bookdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2858C0-E8F3-4162-AAE1-6155C3781958}|BookManagerApp\\BookManagerApp.csproj|d:\\vscodezz\\bookmanagerapp\\bookmanagerapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2858C0-E8F3-4162-AAE1-6155C3781958}|BookManagerApp\\BookManagerApp.csproj|solutionrelative:bookmanagerapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2858C0-E8F3-4162-AAE1-6155C3781958}|BookManagerApp\\BookManagerApp.csproj|d:\\vscodezz\\bookmanagerapp\\bookmanagerapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2858C0-E8F3-4162-AAE1-6155C3781958}|BookManagerApp\\BookManagerApp.csproj|solutionrelative:bookmanagerapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\BookManagerApp\\BookManagerApp\\Program.cs",
+              "RelativeDocumentMoniker": "BookManagerApp\\Program.cs",
+              "ToolTip": "D:\\VSCodezz\\BookManagerApp\\BookManagerApp\\Program.cs",
+              "RelativeToolTip": "BookManagerApp\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T02:25:04.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_BookDetails.cshtml",
+              "DocumentMoniker": "D:\\VSCodezz\\BookManagerApp\\BookManagerApp\\Views\\Books\\_BookDetails.cshtml",
+              "RelativeDocumentMoniker": "BookManagerApp\\Views\\Books\\_BookDetails.cshtml",
+              "ToolTip": "D:\\VSCodezz\\BookManagerApp\\BookManagerApp\\Views\\Books\\_BookDetails.cshtml",
+              "RelativeToolTip": "BookManagerApp\\Views\\Books\\_BookDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T02:24:21.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\VSCodezz\\BookManagerApp\\BookManagerApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BookManagerApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\VSCodezz\\BookManagerApp\\BookManagerApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BookManagerApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T02:19:27.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VSCodezz\\BookManagerApp\\BookManagerApp\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookManagerApp\\Views\\Books\\Index.cshtml",
+              "ToolTip": "D:\\VSCodezz\\BookManagerApp\\BookManagerApp\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "BookManagerApp\\Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T02:18:51.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\VSCodezz\\BookManagerApp\\BookManagerApp\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "BookManagerApp\\Views\\Books\\Create.cshtml",
+              "ToolTip": "D:\\VSCodezz\\BookManagerApp\\BookManagerApp\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "BookManagerApp\\Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T02:18:00.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\BookManagerApp\\BookManagerApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BookManagerApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\VSCodezz\\BookManagerApp\\BookManagerApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BookManagerApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T02:15:00.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\BookManagerApp\\BookManagerApp\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BookManagerApp\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\VSCodezz\\BookManagerApp\\BookManagerApp\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BookManagerApp\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T01:50:39.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\VSCodezz\\BookManagerApp\\BookManagerApp\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookManagerApp\\Models\\Book.cs",
+              "ToolTip": "D:\\VSCodezz\\BookManagerApp\\BookManagerApp\\Models\\Book.cs",
+              "RelativeToolTip": "BookManagerApp\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:24:36.188Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

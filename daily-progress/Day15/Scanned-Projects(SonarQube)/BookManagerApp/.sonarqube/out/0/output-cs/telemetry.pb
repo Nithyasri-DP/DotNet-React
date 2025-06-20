@@ -1,0 +1,1 @@
+UR?D:\VSCodezz\BookManagerApp\BookManagerApp\BookManagerApp.csproj¢net8.0òCSharp12

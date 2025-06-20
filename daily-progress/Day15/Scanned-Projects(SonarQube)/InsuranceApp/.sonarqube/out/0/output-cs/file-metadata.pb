@@ -1,0 +1,9 @@
+^
+SD:\VSCodezz\InsuranceApp\InsuranceApp\obj\Debug\net8.0\InsuranceApp.AssemblyInfo.csutf-8p
+eD:\VSCodezz\InsuranceApp\InsuranceApp\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8`
+UD:\VSCodezz\InsuranceApp\InsuranceApp\obj\Debug\net8.0\InsuranceApp.GlobalUsings.g.csutf-8F
+=D:\VSCodezz\InsuranceApp\InsuranceApp\Services\QueryHelper.csutf-8E
+<D:\VSCodezz\InsuranceApp\InsuranceApp\Services\DataSample.csutf-89
+0D:\VSCodezz\InsuranceApp\InsuranceApp\Program.csutf-8B
+9D:\VSCodezz\InsuranceApp\InsuranceApp\Models\Insurance.csutf-8A
+8D:\VSCodezz\InsuranceApp\InsuranceApp\Models\Customer.csutf-8
