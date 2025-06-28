@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      display: grid;
+      grid-template-areas:
+        "topbar topbar topbar"
+        "sidebar content sidebar2"
+        "footer footer footer";
+      grid-template-columns: 25% 50% 25%;
+      grid-template-rows: 60px 1fr 50px;
+      gap: 10px;
+      height: 100vh;
+      margin: 0;
+    }
+
+    header, nav, main, aside, footer {
+      padding: 15px;
+      color: white;
+      font-weight: bold;
+    }
+
+    header   { grid-area: topbar; background: steelblue; }
+    nav      { grid-area: sidebar; background: darkgreen; }
+    main     { grid-area: content; background: peru; }
+    aside    { grid-area: sidebar2; background: darkslategray; }
+    footer   { grid-area: footer; background: tomato; }
+  </style>
+</head>
+<body>
+
+  <header>Topbar</header>
+  <nav>Left Menu</nav>
+  <main>Main Content</main>
+  <aside>Right Panel</aside>
+  <footer>Footer</footer>
+
+</body>
+</html>

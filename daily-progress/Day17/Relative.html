@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .container {
+      margin: 50px;
+      font-family: Times New Roman;
+    }
+
+    .box {
+      width: 150px;
+      height: 100px;
+      line-height: 100px;
+      text-align: center;
+      color: white;
+      font-weight: bold;
+      margin-bottom: 20px;
+    }
+
+    .static-box {
+      background-color: gray;
+    }
+
+    .relative-no-move {
+      position: relative;
+      background-color: steelblue;
+    }
+
+    .relative-moved {
+      position: relative;
+      top: 20px;
+      left: 30px;
+      background-color: darkorange;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="box static-box">Static (Default)</div>
+
+    <div class="box relative-no-move">Relative (No Move)</div>
+
+    <div class="box relative-moved">Relative (Moved)</div>
+  </div>
+</body>
+</html>
