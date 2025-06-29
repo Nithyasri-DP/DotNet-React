@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>JS Events</title>
+</head>
+<body>
+  <h2>Event Handling Example</h2>
+
+  <label for="username">Enter Your Name:</label>
+  <input type="text" id="username" placeholder="Your name" />
+  <button id="greetBtn">Greet Me</button>
+
+  <p id="greetingMsg" style="margin-top: 10px; font-weight: bold;"></p>
+
+  <script>
+    const greetButton = document.getElementById("greetBtn");
+    const usernameInput = document.getElementById("username");
+    const messagePara = document.getElementById("greetingMsg");
+   
+    greetButton.addEventListener("click", function () {
+      const name = usernameInput.value;
+
+      if (name.trim() === "") {
+        messagePara.innerText = "Please enter your name.";
+        messagePara.style.color = "red";
+      } else {
+        messagePara.innerText = "Welcome, " + name + ".";
+        messagePara.style.color = "green";
+      }
+    });
+  </script>
+</body>
+</html>

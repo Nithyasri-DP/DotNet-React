@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Nested Objects</title>
+</head>
+<body>
+  <h2>Console Output</h2>
+
+  <script>
+    const employees = [
+      { name: "Adhi", department: "HR", city: "Chennai" },
+      { name: "Abhi", department: "IT", city: "Mumbai" },
+      { name: "Raj", department: "IT", city: "Chennai" },
+      { name: "Sashwin", department: "Marketing", city: "Delhi" },
+      { name: "Vikram", department: "HR", city: "Chennai" },
+      { name: "Divya", department: "Marketing", city: "Delhi" },
+    ];
+    const groupedByDepartment = {};
+
+    employees.forEach(emp => {
+      const dept = emp.department;
+      if (!groupedByDepartment[dept]) {
+        groupedByDepartment[dept] = [];
+      }
+      groupedByDepartment[dept].push(emp.name);
+    });
+
+    // Display output
+    console.log("Grouped Employees by Department:");
+    for (let dept in groupedByDepartment) {
+      console.log(`\nDepartment: ${dept}`);
+      groupedByDepartment[dept].forEach(name => {
+        console.log(" - " + name);
+      });
+    }
+  </script>
+</body>
+</html>

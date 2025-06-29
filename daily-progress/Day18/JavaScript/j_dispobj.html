@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Object Properties</title>
+</head>
+<body>
+  <h2>Student Information</h2>
+  <div id="studentInfo"></div>
+
+  <script>
+    const student = {
+      name: "Prabha",
+      age: 20,
+      course: "BCA",
+      email: "prabha@gmail.com"
+    };
+
+    function displayStudentDetails(obj) {
+      let output = "<ul>";
+      for (let key in obj) {
+        output += `<li><strong>${key}</strong>: ${obj[key]}</li>`;
+      }
+      output += "</ul>";
+
+      document.getElementById("studentInfo").innerHTML = output;
+    }
+
+    displayStudentDetails(student);
+  </script>
+</body>
+</html>

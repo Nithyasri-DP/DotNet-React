@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Array Methods Example</title>
+</head>
+<body>
+  <h2>Console Output</h2>
+
+  <script>
+    let colors = ["Red", "Blue", "Green"];
+    console.log("Initial Colors:", colors);
+
+    // push 
+    colors.push("Purple");
+    console.log("After push('Purple'):", colors);
+
+    // pop 
+    colors.pop();
+    console.log("After pop():", colors);
+
+    // unshift - add to beginning
+    colors.unshift("Yellow");
+    console.log("After unshift('Yellow'):", colors);
+
+    // shift - remove from beginning
+    colors.shift();
+    console.log("After shift():", colors);
+
+    // splice - replace 1 item at index 1 with 'Orange'
+    colors.splice(1, 1, "Orange");
+    console.log("After splice(1, 1, 'Orange'):", colors);
+
+    // slice - extract part of array 
+    let selectedColors = colors.slice(0, 2);
+    console.log("Sliced Colors (0 to 2):", selectedColors);
+
+    // concat 
+    let hobbies = ["Painting", "Cycling"];
+    let mix = colors.concat(hobbies);
+    console.log("After concat with hobbies:", mix);
+  </script>
+</body>
+</html>

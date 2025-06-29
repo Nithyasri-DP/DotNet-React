@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Multiple Students</title>
+</head>
+<body>
+  <h2>Student List</h2>
+  <div id="studentList"></div>
+
+  <script>
+    // Array of student objects
+    const students = [
+      { name: "Vedhika", course: "BSc CS", email: "vedhika@gmail.com" },
+      { name: "Meena", course: "BCom", email: "meena@gmail.com" },
+      { name: "Harsha", course: "BA English", email: "harsha@gmail.com" }
+    ];
+
+    // Loop through each student
+    let output = "<ul>";
+    students.forEach(function(student, index) {
+      output += `<li><strong>Student ${index + 1}</strong><ul>`;
+      for (let key in student) {
+        output += `<li>${key}: ${student[key]}</li>`;
+      }
+      output += "</ul></li>";
+    });
+    output += "</ul>";
+
+    document.getElementById("studentList").innerHTML = output;
+  </script>
+</body>
+</html>

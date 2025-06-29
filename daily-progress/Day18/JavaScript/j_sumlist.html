@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Sum and List Demo</title>
+</head>
+<body>
+
+  <h2>JavaScript Prompt + List</h2>
+
+  <button onclick="calculateSum()">Add Two Numbers</button>
+  <p id="output"></p>
+
+  <hr>
+
+  <h3>Popular Bikes</h3>
+  <ul id="bikeList"></ul>
+
+  <script>
+    function calculateSum() {
+      let a = parseInt(prompt("Enter first number:"));
+      let b = parseInt(prompt("Enter second number:"));
+
+      if (isNaN(a) || isNaN(b)) {
+        document.getElementById("output").innerText = "Please enter valid numbers.";
+        return;
+      }
+
+      let result = a + b;
+      document.getElementById("output").innerText = `The sum of ${a} and ${b} is ${result}`;
+    }
+
+    let bikes = ["Royal Enfield", "Duke", "Pulsar", "Yamaha R15"];
+    let ul = document.getElementById("bikeList");
+
+    bikes.forEach(function (bike) {
+      let li = document.createElement("li");
+      li.innerText = bike;
+      ul.appendChild(li);
+    });
+  </script>
+
+</body>
+</html>

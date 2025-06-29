@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Object Practice</title>
+</head>
+<body>
+  <h2>Console Output</h2>
+
+  <script>
+    // Student object
+    const student = {
+      name: "Kaavya",
+      age: 20,
+      course: "BSc Computer Science"
+    };
+    console.log("Student Name:", student.name);
+    console.log("Student Age:", student.age);
+
+    // New property
+    student.email = "kaavya@gmail.com";
+
+    // Update property
+    student.age = 21;
+
+    // Loop through properties
+    console.log("All properties:");
+    for (let key in student) {
+      console.log(key + ": " + student[key]);
+    }
+  </script>
+</body>
+</html>

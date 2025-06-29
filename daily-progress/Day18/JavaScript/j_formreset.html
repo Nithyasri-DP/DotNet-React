@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>JS Form with Reset</title>
+</head>
+<body>
+  <h2>User Info Form</h2>
+
+  <label for="userName">Name:</label>
+  <input type="text" id="userName" placeholder="Enter name" />
+  <br><br>
+
+  <label for="userAge">Age:</label>
+  <input type="number" id="userAge" placeholder="Enter age" />
+  <br><br>
+
+  <button id="submitBtn">Submit</button>
+  <button id="clearBtn">Clear</button>
+
+  <p id="outputMsg" style="margin-top: 10px; font-weight: bold;"></p>
+
+  <script>
+    const submitBtn = document.getElementById("submitBtn");
+    const clearBtn = document.getElementById("clearBtn");
+    const outputMsg = document.getElementById("outputMsg");
+    const nameInput = document.getElementById("userName");
+    const ageInput = document.getElementById("userAge");
+
+    submitBtn.addEventListener("click", function () {
+      const name = nameInput.value.trim();
+      const age = parseInt(ageInput.value);
+
+      if (name === "" || isNaN(age)) {
+        outputMsg.innerText = "Please enter both name and a valid age.";
+        outputMsg.style.color = "red";
+        return;
+      }
+
+      if (age >= 18) {
+        outputMsg.innerText = `Hi ${name}, you are eligible (age ${age})!`;
+        outputMsg.style.color = "green";
+      } else {
+        outputMsg.innerText = `Sorry ${name}, you must be 18 or older.`;
+        outputMsg.style.color = "orange";
+      }
+    });
+
+    clearBtn.addEventListener("click", function () {
+      nameInput.value = "";
+      ageInput.value = "";
+      outputMsg.innerText = "";
+    });
+  </script>
+</body>
+</html>

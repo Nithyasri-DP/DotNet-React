@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>JavaScript Form</title>
+</head>
+<body>
+
+  <h2 id="title">Form</h2>
+
+  <form>
+    <label for="firstName">Your First Name:</label>
+    <input type="text" id="firstName" placeholder="Enter First Name" /><br><br>
+
+    <label for="lastName">Your Last Name:</label>
+    <input type="text" id="lastName" placeholder="Enter Last Name" /><br><br>
+
+    <button type="button" onclick="submitInfo()">Submit</button>
+    <button type="button" onclick="changeTitle()">Change Title</button>
+  </form>
+
+  <script>
+    function changeTitle() {
+      document.getElementById("title").innerText = "Thank you for visiting";
+    }
+
+    function submitInfo() {
+      const fname = document.getElementById("firstName").value.trim();
+      const lname = document.getElementById("lastName").value.trim();
+
+      if (fname === "") {
+        alert("First name is required.");
+        return;
+      }
+      if (lname === "") {
+        alert("Last name is required.");
+        return;
+      }
+
+      alert("Your form is submitted " + fname + " " + lname + ".");
+    }
+  </script>
+
+</body>
+</html>

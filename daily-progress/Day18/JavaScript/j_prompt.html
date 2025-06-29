@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Confirm and Prompt Demo</title>
+</head>
+<body>
+
+  <h2>Car List + Sum Calculator</h2>
+  
+  <button onclick="showCalculation()">Click Me!</button>
+
+  <p id="result"></p>
+  <ul id="carList"></ul>
+
+  <script>
+    function showCalculation() {
+      // Optional confirmation
+      const proceed = confirm("Do you want to calculate the sum of two numbers?");
+      if (!proceed) {
+        alert("You canceled!");
+        return;
+      }
+
+      const num1 = parseInt(prompt("Enter the first number:"));
+      const num2 = parseInt(prompt("Enter the second number:"));
+
+      if (isNaN(num1) || isNaN(num2)) {
+        document.getElementById("result").innerText = "Invalid input. Please enter valid numbers.";
+        return;
+      }
+
+      const sum = num1 + num2;
+      document.getElementById("result").innerText = `Sum of ${num1} and ${num2} is: ${sum}`;
+    }
+
+    // Car brands list
+    const cars = ["Honda", "Toyota", "Hyundai", "Tata"];
+    const ul = document.getElementById("carList");
+
+    cars.forEach(function(car) {
+      const li = document.createElement("li");
+      li.innerText = car;
+      ul.appendChild(li);
+    });
+  </script>
+
+</body>
+</html>

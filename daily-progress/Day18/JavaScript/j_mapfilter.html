@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Student</title>
+</head>
+<body>
+      <h2>Console Output</h2>
+  <script>
+    const students = [
+      { name: "Riya", grade: "A", marks: 85 },
+      { name: "Reena", grade: "B", marks: 65 },
+      { name: "Varsha", grade: "C", marks: 45 },
+      { name: "Riya", grade: "B", marks: 75 }
+    ];
+
+    // 1. Filter: Students who passed (marks >= 60)
+    const passedStudents = students.filter(function(s) {
+      return s.marks >= 60;
+    });
+    console.log("Passed Students:");
+    console.log(passedStudents);
+
+    // 2. Map: Increase all marks by 5
+    const boostedMarks = students.map(function(s) {
+      return { ...s, marks: s.marks + 5 };
+    });
+    console.log("Boosted Marks:");
+    console.log(boostedMarks);
+
+    // 3. Reduce: Total Marks
+    const totalMarks = students.reduce(function(total, s) {
+      return total + s.marks;
+    }, 0);
+    console.log("Total Marks of All Students: " + totalMarks);
+
+    // 4. Some: Anyone failed? (marks < 50)
+    const anyFailed = students.some(function(s) {
+      return s.marks < 50;
+    });
+    console.log("Any student failed? " + anyFailed);
+
+    // 5. Every: Did all get above 40?
+    const allAbove40 = students.every(function(s) {
+      return s.marks > 40;
+    });
+    console.log("All scored above 40? " + allAbove40);
+
+    // 6. Find: First student with Grade B
+    const gradeBStudent = students.find(function(s) {
+      return s.grade === "B";
+    });
+    console.log("First student with Grade B:");
+    console.log(gradeBStudent);
+
+    // 7. forEach: Display all student names
+    console.log("All Student Names:");
+    students.forEach(function(s) {
+      console.log("- " + s.name);
+    });
+  </script>
+</body>
+</html>
