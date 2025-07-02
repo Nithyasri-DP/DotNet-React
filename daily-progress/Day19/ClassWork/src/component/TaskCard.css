@@ -1,0 +1,23 @@
+.taskContainer {
+  max-width: 400px;
+  margin: auto;
+}
+
+.taskCard {
+  transition: 0.3s ease-in-out;
+}
+
+.pending {
+  background-color: yellow;
+  color: black;
+}
+
+.completed {
+  background-color: green;
+  color: gold;
+}
+
+.in-progress {
+  background-color: blue;
+  color: white;
+}

@@ -1,0 +1,21 @@
+/* App.css */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;       
+  justify-content: center;    
+  min-height: 100vh;
+  padding: 30px;
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+}
+
+.assignment-block {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.center-card {
+  display: flex;
+  justify-content: center;
+}
