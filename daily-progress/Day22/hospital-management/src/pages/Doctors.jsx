@@ -1,10 +1,10 @@
 import { Link, useParams } from "react-router-dom";
 
 const doctors = [
-    {id:1, name:"Lakshmi", department:"General"},
-    {id:2, name:"Latha", department:"General"},
-    {id:3, name:"Sharmi", department:"Dental"},
-    {id:4, name:"Vedha", department:"ENT"},
+    {id:1, name:"Dr.Lakshmi", department:"General"},
+    {id:2, name:"Dr.Latha", department:"General"},
+    {id:3, name:"Dr.Sharmi", department:"Dental"},
+    {id:4, name:"Dr.Vedha", department:"ENT"},
 ]
 
 function Doctors(){

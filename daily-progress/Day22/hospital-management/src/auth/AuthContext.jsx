@@ -4,8 +4,8 @@ import { useNavigate } from "react-router-dom";
 const AuthContext = createContext();
 
 const dummydata = [
-   {username:"Rajesh", password:"patient123", role:"patient"},
-   {username:"Sharmi", password:"doctor123", role:"doctor"},
+   {username:"Raj", password:"Raj123", role:"patient"},
+   {username:"Dr.Sharmi", password:"doctor123", role:"doctor"},
    {username:"Owner", password:"owner123", role:"owner"},
 ]
 
