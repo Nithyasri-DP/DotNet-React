@@ -1,0 +1,3 @@
+D:\VSCodezz\ASP_Demo\Authentication_Demo\wwwroot\images\lapp.jpg.crdownload
+D:\VSCodezz\ASP_Demo\Authentication_Demo\wwwroot\images\laptopp.jpg.crdownload
+D:\VSCodezz\ASP_Demo\Authentication_Demo\wwwroot\images\ll.webp

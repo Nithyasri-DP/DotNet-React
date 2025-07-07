@@ -1,0 +1,12 @@
+wwwroot\images\laptop.jpg
+wwwroot\images\wiredkeyboard.jpg
+wwwroot\images\phone.jpg
+wwwroot\images\tab.png
+wwwroot\images\watch.jpg
+wwwroot\images\lap.jpg
+wwwroot\images\keyboard.jpg
+wwwroot\images\key.jpg
+wwwroot\images\lapp.jpg.crdownload
+wwwroot\images\laptopp.jpg.crdownload
+wwwroot\images\l.jpg
+wwwroot\images\ll.webp
