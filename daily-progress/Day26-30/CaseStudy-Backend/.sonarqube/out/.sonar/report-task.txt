@@ -1,0 +1,6 @@
+projectKey=asset-backend
+serverUrl=http://localhost:9000
+serverVersion=25.6.0.109173
+dashboardUrl=http://localhost:9000/dashboard?id=asset-backend
+ceTaskId=4516e534-6fb4-4fae-8b2a-38c3f8d424ae
+ceTaskUrl=http://localhost:9000/api/ce/task?id=4516e534-6fb4-4fae-8b2a-38c3f8d424ae

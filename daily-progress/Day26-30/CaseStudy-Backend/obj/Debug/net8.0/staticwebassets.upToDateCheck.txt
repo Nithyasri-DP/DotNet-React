@@ -1,0 +1,16 @@
+wwwroot\assets\bottle.png
+wwwroot\assets\c.jpg
+wwwroot\assets\car.jpg
+wwwroot\assets\carwbg.png
+wwwroot\assets\chair.jpg
+wwwroot\assets\dellinspiron.jpeg
+wwwroot\assets\headphone.jpg
+wwwroot\assets\hpprinter.png
+wwwroot\assets\iphone16.png
+wwwroot\assets\key.jpg
+wwwroot\assets\keyone.jpg
+wwwroot\assets\l.jpg
+wwwroot\assets\lenova.png
+wwwroot\assets\monitor.webp
+wwwroot\assets\off-chair.jpg
+wwwroot\assets\printer.png

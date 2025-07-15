@@ -1,0 +1,6 @@
+projectKey=asset-frontend
+serverUrl=http://localhost:9000
+serverVersion=25.6.0.109173
+dashboardUrl=http://localhost:9000/dashboard?id=asset-frontend
+ceTaskId=d19f6271-d92c-4802-a0b3-76e2a98535e4
+ceTaskUrl=http://localhost:9000/api/ce/task?id=d19f6271-d92c-4802-a0b3-76e2a98535e4

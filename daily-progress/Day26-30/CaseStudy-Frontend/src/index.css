@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.nav-link {
+  padding: 10px 15px;
+  transition: background-color 0.2s ease;
+  border-radius: 5px;
+}
+
+.nav-link:hover {
+  background-color: #4A90E2; 
+  color: #fff;            
+  text-decoration: none;
+  border-radius: 4px;       
+}
+
+.active-link {
+  background-color: #154b71 !important; 
+  color: #fff !important;
+  font-weight: 500;
+}
+
+.uppercase-badge {
+  text-transform: uppercase !important;
+}

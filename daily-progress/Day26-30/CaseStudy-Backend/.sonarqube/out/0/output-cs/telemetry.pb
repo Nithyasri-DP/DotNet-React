@@ -1,0 +1,1 @@
+TR>D:\VSCodezz\AssetPortal\AssetManagement\AssetManagement.csproj¢net8.0òCSharp12
